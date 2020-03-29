@@ -26,11 +26,10 @@ You can provide the relative path to the file, like `subfolder/example-page.md`
 and Jekyll will handle parsing it. For example:
 
  - [here is that link](subfolder/example-page)
- 
-And {% include doc.html name="here" path="subfolder/example-page" %} is the same link, 
+
+And {% include doc.html name="here" path="subfolder/example-page" %} is the same link,
 but generated with the include statement:
 
 ```
 {% raw %}{% include doc.html name="here" path="subfolder/example-page" %}{% endraw %}
 ```
-
