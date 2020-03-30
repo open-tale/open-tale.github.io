@@ -1,8 +1,5 @@
 - title: Documentation
   url: docs
   links:
-    - title: "Introduction"
-      url: "docs/intro"
-      children:
-        - title: Child
-          url: "docs/intro"
+    - title: "Characters"
+      url: "docs/characters"

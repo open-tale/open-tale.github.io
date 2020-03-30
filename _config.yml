@@ -36,9 +36,6 @@ github_repo: "open-tale.github.io"
 # twitter: vsoch
 # linkedin: vsochat
 
-# Should there be feedback buttons at the bottom of pages?
-feedback: false
-
 # google-analytics: UA-XXXXXXXXXX
 # Image and (square) dimension for logo (don't start with /)
 # If commented, will use material hat theme
@@ -49,11 +46,6 @@ color: "#30638e"
 
 # Build settings
 markdown: kramdown
-
-# If you add tags to pages, define this variable to link them to some external search
-# If you want to link to tags locally on the site, leave this commented out
-# tag_search_endpoint: https://ask.cyberinfrastructure.org/search?q=
-# tag_color: primary # danger, success, warning, primary, info, secondary
 
 accentColor: red # purple, green, etc.
 themeColor: red # purple, green, blue, orange, purple, grey
