@@ -34,7 +34,7 @@ Open Tale has the following attributes:
 | **Agility** | surprise foes, combat initiative | dodging skills
 | **Vitality** | heal with potions | number of health points, resistance to toxicity
 | **Persuasion** | convince other characters, haggle good prices, influence characters with thoughts
-| **Volition** | overcome fear, insanity and manipulations | maintain a sane mental state
+| **Volition** | face challenges that require mental resilience | display bravery, maintain sanity
 | **Awareness** | avoid surprise attacks, spot traps | notice manipulation
 | **Intellect** | solve riddles, decypher codes, understand complex scriptures
 | **Speed** | movement capability when on feet during combat
@@ -55,8 +55,8 @@ character may die or become unconscious.
 * **Defense**: The character's ability to protect itself against damage by
 dodging it or creating magical shields or simply by absorbing impact with gear.
 
-* **Willpower**: Ability to preserve sanity, protecting against external subtle
-influences.
+* **Willpower**: Ability to preserve a healthy psyche, protecting from external
+subtle influences.
 
 * **Poise**: Physical constitution and equilibrium. Protects against submission,
 stun, poison, infections and diseases.
