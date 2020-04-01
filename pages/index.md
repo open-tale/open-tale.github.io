@@ -4,14 +4,14 @@ title: Open Tale
 permalink: /
 ---
 
-# Welcome to *Open Tale*!
+# Welcome to Open Tale!
 
-*Open Tale* is a free and open source [Tabletop RPG][ttrpg] system that
+Open Tale is a free and open source [Tabletop RPG][ttrpg] system that
 separates mechanics from narratives, leaving the story completely open for
 creation. It is released under the [Apache License 2.0][apache], granting the
 community the freedom to fork, tweak and publish it.
 
-Although *Open Tale* focuses on providing a fair system with interesting
+Although Open Tale focuses on providing a fair system with interesting
 mathematical unfoldings, there must be a strong commitment to simplicity,
 dynamism and flexibility. When we're gathered around a table to play RPGs, we
 want to be amazed by innovative stories and epic battles. We want to feel the
@@ -19,7 +19,7 @@ impact of great challenges. We want to laugh and be surprised.
 
 Such emotions require a certain timing that can easily be lost if the players
 have to constantly check the ruleset to make sure that nobody is breaking the
-system. Therefore, *Open Tale* is aligned with a call for uninterruptible fun.
+system. Therefore, Open Tale is aligned with a call for uninterruptible fun.
 
 ## Contributing
 
