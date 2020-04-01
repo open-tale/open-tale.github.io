@@ -21,6 +21,8 @@ Such emotions require a certain timing that can easily be lost if the players
 have to constantly check the ruleset to make sure that nobody is breaking the
 system. Therefore, Open Tale is aligned with a call for uninterruptible fun.
 
+[**Go to the Open Tale documentation pages.**](docs)
+
 ## Contributing
 
 This website is managed on a [Github repository][repository]. Thus, any kind of

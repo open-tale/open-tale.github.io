@@ -1,9 +1,9 @@
 ---
-title: Characters
+title: 1. Characters
 description: Covers the definition of a character and its basic mechanics
 ---
 
-# Characters
+# 1. Characters
 
 Characters are entities that can affect the narrative and interact with each
 other (or with the environment). A character can have the following traits:
