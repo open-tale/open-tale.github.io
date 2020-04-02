@@ -9,7 +9,7 @@ permalink: /
 Open Tale is a free and open source [Tabletop RPG][ttrpg] system that
 separates mechanics from narratives, leaving the story completely open for
 creation. It is released under the [Apache License 2.0][apache], granting the
-community the freedom to fork, tweak and publish it.
+community the freedom to fork, tweak and publish new versions.
 
 Although Open Tale focuses on providing a fair system with interesting
 mathematical unfoldings, there must be a strong commitment to simplicity,
