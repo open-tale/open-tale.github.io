@@ -10,18 +10,22 @@ other (or with the environment). A character can have the following traits:
 
 * *Level*
 * *Attributes*
-* *Qualities*
 * *Perks*
+* *Qualities*
 * *Wealth*
 
-### Level
+#### Level
 
-The character's level expresses how experienced it is in a campaign.
-Characters on higher levels are usually tougher in certain aspects.
+The character's level expresses how experienced it is in a campaign. Characters
+on higher levels are usually tougher in certain aspects.
 
-The level of a character varies from 1 to 10.
+The level of a character varies from 1 to 10. To level up, the player must spend
+3 experience points regardless of the current level of the character.
 
-### Attributes
+Players are awarded experience points in the end of each session, usually at
+least 1 point.
+
+#### Attributes
 
 Open Tale has the following attributes:
 
@@ -39,9 +43,19 @@ Open Tale has the following attributes:
 | **Intellect** | solve riddles, decypher codes, understand complex scriptures
 | **Speed** | movement capability when on feet during combat
 
-Each attribute varies from 1 to 10.
+Each attribute varies from 1 to 10. To go from an attribute level *X* to the
+next, the player must spend 3*X* attribute points.
 
-### Qualities
+The character starts off with 30 attribute points and can recieve more by
+advancing on character levels. When going from a character level *Y* to the
+next, the character gains 4*Y* attribute points.
+
+#### Perks
+
+Perks are characteristics that grant constant passive boosts and can be acquired
+as the character progresses in the story.
+
+#### Qualities
 
 Qualities are traits that cannot be changed directly. Instead, they're are the
 result of the character's level and attributes, being subject to further
@@ -71,12 +85,7 @@ See below the formulas to define the base value of each quality:
 | **Willpower** | 5 + Volition + Awareness
 | **Poise** | 5 + Strength + Vitality
 
-### Perks
-
-Perks are characteristics that grant constant passive boosts and can be acquired
-as the character progresses in the story.
-
-### Wealth
+#### Wealth
 
 Wealth relates to what the character can purchase with the in-game money
 according to the following rules:
@@ -87,3 +96,5 @@ lower without further consequences;
 character's wealth by spending 1 wealth point;
 * It's not allowed to buy items that are at 2 or more wealth levels above the
 character's wealth.
+
+## 1.1. Building a character
