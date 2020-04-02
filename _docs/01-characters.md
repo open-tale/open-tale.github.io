@@ -6,7 +6,15 @@ description: Covers the definition of a character and its basic mechanics
 # 1. Characters
 
 Characters are entities that can affect the narrative and interact with each
-other (or with the environment). A character can have the following traits:
+other (or with the environment). A character can be either a *Player Character*
+(PC), which is interpreted by a player, or a *Non-Player Character* (NPC), which
+is interpreted by the Game Master.
+
+## 1.1. Character Traits
+
+Traits are the characteristics of a character that can be somehow represented
+numerically within the Open Tale system. A character can have the following
+traits:
 
 * *Level*
 * *Attributes*
@@ -52,8 +60,11 @@ next, the character gains 4*Y* attribute points.
 
 #### Perks
 
-Perks are characteristics that grant constant passive boosts and can be acquired
-as the character progresses in the story.
+Perks are traits that grant constant passive boosts and can be acquired as the
+character progresses in the story.
+
+Every character level grants the player the right to purchase one new perk. That
+being said, the character starts off with one available perk to purchase.
 
 #### Qualities
 
@@ -97,4 +108,4 @@ character's wealth by spending 1 wealth point;
 * It's not allowed to buy items that are at 2 or more wealth levels above the
 character's wealth.
 
-## 1.1. Building a character
+## 1.2. Building a character
