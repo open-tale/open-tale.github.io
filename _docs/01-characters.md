@@ -108,4 +108,23 @@ character's wealth by spending 1 wealth point;
 * It's not allowed to buy items that are at 2 or more wealth levels above the
 character's wealth.
 
-## 1.2. Building a character
+The wealth of a character varies from 1 to 10 and can grow when treasures are
+found, rewards are earned or rare items are sold. Selling regular loot does not
+grant wealth.
+
+## 1.2. Creating a character
+
+Creating a character in Open Tale is pretty straightforward. The steps are:
+
+1. Spend the first 30 attribute points
+2. Choose your initial perk
+3. Compute the character's qualities
+
+The table below displays the total cost of the initial attribute levels:
+
+| Attribute level | Total cost
+|:-:
+| 2 | 3
+| 3 | 9
+| 4 | 18
+| 5 | 30

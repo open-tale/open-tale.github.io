@@ -18,8 +18,8 @@ title: Open Tale
 email: arthurleonardo.ap@gmail.com
 author: Arthur Paulino
 description: > # this means to ignore newlines until "baseurl:"
-  Open Tale is a high level open source system for Tabletop RPGs inspired by
-  Open Legend.
+  Open Tale is an open source system for Tabletop RPGs, released under the
+  Apache License 2.0.
 
 # DO NOT CHANGE THE LINE OF THIS FILE without editing .circleci/circle_urls.sh
 baseurl: "" # the subpath of your site, e.g. /blog
