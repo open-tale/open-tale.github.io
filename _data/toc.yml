@@ -1,5 +1,7 @@
 - title: Documentation
   url: docs
   links:
-    - title: "1. Characters"
-      url: "docs/01-characters"
+  - title: "1. Characters"
+    url: "docs/01-characters"
+  - title: "2. Roll System"
+    url: "docs/02-roll-system"
