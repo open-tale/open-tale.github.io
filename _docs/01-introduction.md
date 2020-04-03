@@ -6,11 +6,11 @@ description: What is Open Tale really about?
 # 1. Introduction
 
 Open Tale is not a game per se... it's a system to build stories with. What this
-means is that, for instance, the GM and the players are free to compose their
-own atmosphere. For instance: when players are creating their characters, they
-can go in as much detail as they like, be it in terms of personality of physical
-appearance. However, this website focuses as much as possible on the system
-itself, leaving the rest for your imagination.
+means is that the GM and the players are free to compose their own atmosphere.
+For instance: when players are creating their characters, they can go in as much
+detail as they like, be it in terms of personality of physical appearance.
+However, this website focuses as much as possible on the system itself, leaving
+the rest for your imagination.
 
 Although Open Tale focuses on providing a fair system with interesting
 mathematical unfoldings, there must be a strong commitment to simplicity,
