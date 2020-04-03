@@ -1,9 +1,9 @@
 ---
-title: 1. Characters
+title: 2. Characters
 description: Covers the definition of a character and its basic mechanics
 ---
 
-# 1. Characters
+# 2. Characters
 
 Characters are entities that can affect the narrative and interact with each
 other (or with the environment). A character can be either a *Player Character*
@@ -49,7 +49,7 @@ Open Tale has the following attributes:
 | **Volition** | face challenges that require mental resilience | display bravery, maintain sanity
 | **Awareness** | avoid surprise attacks, spot traps | notice manipulation
 | **Intellect** | solve riddles, decypher codes, understand complex scriptures
-| **Speed** | movement capability when on feet during combat
+| **Speed** | movement capability during combat
 
 Each attribute varies from 1 to 10. To go from an attribute level *X* to the
 next, the player must spend 3*X* attribute points.
@@ -114,14 +114,7 @@ not grant wealth.
 
 ## 1.2. Creating a character
 
-Open Tale is not a game per se... it's a system to build stories with. What this
-means is that the GM and the players are free to compose their own atmospheres.
-When players are creating their characters, they can go in as much detail as
-they like, be it in terms of personality of physical appearance.
-
-However, this website focuses as much as possible on the system itself, leaving
-the rest for your imagination. So, moving on, these are the steps to create a
-character within the Open Tale system:
+These are the steps to create a character within the Open Tale system:
 
 1. Spend any of the first 30 attribute points
 2. Choose your initial perk, if you want to do it now
