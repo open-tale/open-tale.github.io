@@ -27,12 +27,12 @@ has three options to roll: 1d12+1d4, 1d10+1d6 or 2d8.
 ### 3.1. Roll modifiers
 
 Roll modifiers are ingredients that can be used to spice up the story in certain
-moments. There are four roll modifiers in Open Tale: *Inferiority*,
-*Disadvantage*, *Advantage* and *Superiority*.
+moments. There are four mutually exclusive roll modifiers in Open Tale:
+*Inferiority*, *Disadvantage*, *Advantage* and *Superiority*.
 
 Inferiority and disadvantage are nerfs applied on the die with the highest
 value. Advantage and superiority are buffs applied on the die with the smallest
-score. Their mechanics are as follows:
+value. Their mechanics are as follows:
 
 * Inferiority: pick the die with the highest value and roll it again, keeping
 the smallest value
@@ -52,13 +52,12 @@ the score in case of disadvantage. These results can be interpreted as if the
 character got overconfident when on advantage... or was able to focus and
 overcome a situation of disadvantage.
 
-**Note**: Roll modifiers are mutually exclusive. Only one of them can be applied
-at once.
-
 ### 3.2. Explosions
 
-After applying roll modifiers, if any, the player can gain extra scores from
+After applying the roll modifier, if any, the player can gain extra scores from
 dice explosions.
 
-When a die hits its highest value, the player can roll it again and add the next
-value to the final score. **Dice can explode indefinitely**.
+An explosion happen when a die hits its highest value. The player can roll it
+again and add the next value to the final score. **Dice can explode
+indefinitely**, so players can have the chance to achieve surprisingly high
+scores.

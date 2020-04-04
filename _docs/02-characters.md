@@ -39,18 +39,18 @@ Open Tale has the following attributes:
 
 | Attribute | Active effects | Passive effects
 |:-:
-| **Strength** | swing medium and long weapons, wrestle an enemy to submission | wear heavy armor, carry items
-| **Dexterity** | swing short weapons, use ranged weapons, pick a lock or a pocket, perform first aid
-| **Destruction** | use elemental attacks, summon arcane magic
-| **Creation** | heal with hands | summon shields with magic
-| **Agility** | surprise foes, combat initiative | dodging skills
-| **Vitality** | heal with potions | number of health points, resistance to toxicity
-| **Charisma** | convince other characters, haggle good prices, gather privileged information
-| **Malice** | influence characters with thoughts, induce fear and confusion
-| **Volition** | face challenges that require mental resilience | display bravery, maintain sanity
-| **Awareness** | avoid surprise attacks, spot traps | notice manipulation
+| **Strength** | swing medium and long weapons, wrestle a foe to submission | wear heavy armor, carry items
+| **Dexterity** | swing short weapons, use ranged weapons, pick a lock or a pocket
+| **Destruction** | use elemental attacks or arcane magic to deal damage
+| **Divinity** | heal with hands | summon shields with magic
+| **Agility** | surprise foes, initiate combat | improve dodging skills
+| **Vitality** | heal with potions | increase the number of health points, enhance resistance to toxicity
+| **Persuasion** | convince other characters, haggle good prices, gather privileged information
+| **Malice** | induce chaotic mental states such as fear and confusion
+| **Volition** | perform laborous tasks | display bravery, maintain sanity
+| **Awareness** | avoid surprise attacks | notice manipulation
 | **Intellect** | solve riddles, decypher codes, understand complex scriptures
-| **Speed** | movement capability during combat
+| **Speed** | enhance movement capability during combat
 
 Each attribute varies from 1 to 9. To go from an attribute level *X* to the
 next, the player must spend 3*X* attribute points.
@@ -93,7 +93,7 @@ See below the formulas to define the base value of each quality:
 |:-:
 | **Health Points** | 10 + Level + Vitality
 | **Capacity** | 5 + Level + Strength
-| **Defense** | 5 + Agility + Creation
+| **Defense** | 5 + Agility + Divinity
 | **Willpower** | 5 + Volition + Awareness
 | **Poise** | 5 + Strength + Vitality
 
