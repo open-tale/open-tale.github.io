@@ -10,7 +10,7 @@ other (or with the environment). A character can be either a *Player Character*
 (PC), which is interpreted by a player, or a *Non-Player Character* (NPC), which
 is interpreted by the Game Master.
 
-## 2.1. Character Traits
+## 2.1. Character traits
 
 Traits are the characteristics of a character that can be somehow represented
 numerically within the Open Tale system. A character can have the following
@@ -22,7 +22,7 @@ traits:
 * *Qualities*
 * *Wealth*
 
-#### Level
+### 2.1.1. Level
 
 The character's level expresses how experienced it is in a campaign. Characters
 on higher levels are usually tougher in certain aspects.
@@ -33,22 +33,23 @@ The level of a character varies from 1 to 9. To level up, the player must spend
 Players are awarded experience points in the end of each session, usually at
 least 1 point.
 
-#### Attributes
+### 2.1.2. Attributes
 
 Open Tale has the following attributes:
 
-| Attribute | Active effects | Passive effects
-|:-:
-| **Strength** | swing medium and long weapons, wrestle a foe to submission | wear heavy armor, carry items
+| Attribute | Effects
+|:-:|:-:
+| **Strength** | swing long weapons, wrestle a foe to submission, wear heavy armor, carry items
 | **Dexterity** | swing short weapons, use ranged weapons, pick a lock or a pocket
-| **Destruction** | use elemental attacks or arcane magic to deal damage
-| **Divinity** | heal with hands | summon shields with magic
-| **Agility** | surprise foes, initiate combat | improve dodging skills
-| **Vitality** | heal with potions | increase the number of health points, enhance resistance to toxicity
+| **Entropy** | manipulate energy and matter, control elements, summon minions
+| **Corruption** | poison a character, cause diseases, inflict temporary disabilities
+| **Divinity** | heal with hands, provide support for allies, protect with heavenly shields
+| **Agility** | surprise foes, initiate combat, improve dodging skills
+| **Vitality** | heal with potions, increase the number of health points, enhance resistance to toxicity
 | **Persuasion** | convince other characters, haggle good prices, gather privileged information
 | **Malice** | induce chaotic mental states such as horror and confusion
-| **Volition** | perform laborous tasks | display bravery, maintain sanity
-| **Awareness** | avoid surprise attacks | notice manipulation
+| **Volition** | perform laborous tasks, display bravery, maintain sanity
+| **Awareness** | avoid surprise attacks, notice manipulation
 | **Intellect** | solve riddles, decypher codes, understand complex scriptures
 | **Speed** | enhance movement capability during combat
 
@@ -59,7 +60,7 @@ The character starts off with 30 attribute points and can recieve more by
 advancing on character levels. When going from a character level *Y* to the
 next, the character gains 4*Y* attribute points.
 
-#### Perks
+### 2.1.3. Perks
 
 Perks are traits that grant constant passive boosts and can be acquired as the
 character progresses in the story.
@@ -67,7 +68,7 @@ character progresses in the story.
 Every character level grants the player the right to purchase one new perk. That
 being said, the character starts off with one available perk to purchase.
 
-#### Qualities
+### 2.1.4. Qualities
 
 Qualities are traits that cannot be changed directly. Instead, they're are the
 result of the character's level and attributes, being subject to further
@@ -84,20 +85,20 @@ dodging it or creating magical shields or simply by absorbing impact with gear.
 * **Willpower**: Ability to preserve a healthy psyche, protecting from external
 subtle influences.
 
-* **Poise**: Physical constitution and equilibrium. Protects against submission,
-stun, poison, infections and diseases.
+* **Toughness**: Physical constitution and equilibrium. Protects against
+submission, stun, poison, infections and diseases.
 
 See below the formulas to define the base value of each quality:
 
 | Quality | Formula
-|:-:
+|:-:|:-:
 | **Health Points** | 10 + Level + Vitality
 | **Capacity** | 5 + Level + Strength
 | **Defense** | 5 + Agility + Divinity
 | **Willpower** | 5 + Volition + Awareness
 | **Poise** | 5 + Strength + Vitality
 
-#### Wealth
+### 2.1.5. Wealth
 
 Wealth relates to what the character can purchase with the in-game money
 according to the following rules:
@@ -127,7 +128,7 @@ These are the steps to create a character within the Open Tale system:
 The table below displays the total cost of the initial attribute levels:
 
 | Attribute level | Total cost
-|:-:
+|:-:|:-:
 | 2 | 3
 | 3 | 9
 | 4 | 18

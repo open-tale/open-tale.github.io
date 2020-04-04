@@ -22,3 +22,17 @@ the party to unexpected situations as in "You hear the lock crack open, but you
 feel the rise of an intimidating presence behind you" or "You hear a strange
 sound coming from the lock and now you're unable to manouver it because it's
 completely stuck".
+
+## 4.1. Types of actions
+
+Players roll dice in Open Tale for 6 major reasons:
+
+1. To deal damage;
+2. To surpass a challenge score;
+3. To support allies;
+4. To avoid surprises;
+5. To define combat order;
+6. To move during combat.
+
+Items 4 to 6 will be covered in the next chapter, [Combat](05-combat). For now,
+let's understand the first 3.
