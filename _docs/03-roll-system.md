@@ -24,13 +24,20 @@ For example: A character is going perform an attack with a long sword and his
 strength is at level 5. His strength power is 6 + 2 * 5 = 16. Thus, the player
 has three options to roll: 1d12+1d4, 1d10+1d6 or 2d8.
 
-## 3.1. Roll modifiers
+## 3.1. Heroism
+
+The GM can reward characters with *Heroic Badges*, which can be spent before any
+roll. If the player chooses to spend it, the roll happens with an extra d4.
+
+Characters cannot carry more than one Heroic Badge.
+
+## 3.2. Roll modifiers
 
 Roll modifiers are ingredients that can be used to spice up the story in certain
 moments. There are four mutually exclusive roll modifiers in Open Tale:
 *Inferiority*, *Disadvantage*, *Advantage* and *Superiority*.
 
-Inferiority and disadvantage are nerfs applied on the die with the highest
+Inferiority and Disadvantage are nerfs applied on the die with the highest
 value. Advantage and superiority are buffs applied on the die with the smallest
 value. Their mechanics are as follows:
 
@@ -46,13 +53,13 @@ the second value and ignoring the first one
 * Superiority: pick the die with the smallest value and roll it again, keeping
 the highest value
 
-Notice that disadvantage and advantage are not absolute modifiers, in the sense
-that it's still possible to worsen the score in case of advantage or improve
-the score in case of disadvantage. These results can be interpreted as if the
-character got overconfident when on advantage... or was able to focus and
-overcome a situation of disadvantage.
+Notice that Disadvantage and Advantage are not absolute modifiers, in the sense
+that it's still possible to worsen the score in case of Advantage or improve
+the score in case of Disadvantage. These results can be interpreted as if the
+character got overconfident when on Advantage... or was able to focus and
+overcome a situation of Disadvantage.
 
-## 3.2. Explosions
+## 3.3. Explosions
 
 After applying the roll modifier, if any, the player can gain extra scores from
 dice explosions.
@@ -62,23 +69,25 @@ again and add the next value to the final score. **Dice may explode
 indefinitely**, so players can have the chance to achieve surprisingly high
 scores.
 
-## 3.3. Expected scores
+## 3.4. Expected scores
 
 Let's define the *expected score* of an attribute level as the integer
-approximation of the average score if we roll dice many many times. These are
-the expected scores for each attribute level:
+approximation of the average score if we roll dice many many times.
+
+The table below shows the expected scores (*without* ⇒ *with* Heroism) for each
+attribute level and roll modifier.
 
 | Level | Inferiority | Disadvantage | Neural | Advantage | Superiority
 |:-:|:-:|:-:|:-:|:-:|:-:
-| 1 | 4 | 5 | **6** | 8 | 8 |
-| 2 | 5 | 6 | **7** | 8 | 9 |
-| 3 | 6 | 7 | **8** | 9 | 10 |
-| 4 | 6 | 7 | **9** | 10 | 11 |
-| 5 | 7 | 8 | **10** | 11 | 12 |
-| 6 | 8 | 9 | **11** | 12 | 13 |
-| 7 | 9 | 10 | **12** | 14 | 15 |
-| 8 | 9 | 11 | **13** | 15 | 16 |
-| 9 | 10 | 11 | **14** | 16 | 17 |
+| **1** | 4 ⇒ 7 | 5 ⇒ 7 | **6 ⇒ 9** | 8 ⇒ 11 | 8 ⇒ 11 |
+| **2** | 5 ⇒ 8 | 6 ⇒ 8 | **7 ⇒ 10** | 8 ⇒ 12 | 9 ⇒ 12 |
+| **3** | 6 ⇒ 9 | 7 ⇒ 9 | **8 ⇒ 11** | 9 ⇒ 13 | 10 ⇒ 13 |
+| **4** | 6 ⇒ 9 | 7 ⇒ 10 | **9 ⇒ 12** | 10 ⇒ 14 | 11 ⇒ 14 |
+| **5** | 7 ⇒ 10 | 8 ⇒ 11 | **10 ⇒ 13** | 11 ⇒ 15 | 12 ⇒ 15 |
+| **6** | 8 ⇒ 11 | 9 ⇒ 12 | **11 ⇒ 14** | 12 ⇒ 16 | 13 ⇒ 17 |
+| **7** | 9 ⇒ 12 | 10 ⇒ 13 | **12 ⇒ 15** | 14 ⇒ 17 | 15 ⇒ 18 |
+| **8** | 9 ⇒ 13 | 11 ⇒ 14 | **13 ⇒ 16** | 15 ⇒ 18 | 16 ⇒ 19 |
+| **9** | 10 ⇒ 13 | 11 ⇒ 14 | **14 ⇒ 17** | 16 ⇒ 19 | 17 ⇒ 20 |
 
 These numbers are useful to design appropriate challenges as a GM and also for
 the players to understand their own powers.

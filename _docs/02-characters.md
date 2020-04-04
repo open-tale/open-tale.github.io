@@ -96,7 +96,7 @@ See below the formulas to define the base value of each quality:
 | **Capacity** | 5 + Level + Strength
 | **Defense** | 5 + Agility + Divinity
 | **Willpower** | 5 + Volition + Awareness
-| **Poise** | 5 + Strength + Vitality
+| **Toughness** | Strength + Vitality + Volition
 
 ### 2.1.5. Wealth
 

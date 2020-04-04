@@ -28,7 +28,7 @@ completely stuck".
 Players roll dice in Open Tale for 6 major reasons:
 
 1. To deal damage;
-2. To surpass a challenge score;
+2. To surpass a challenge rating;
 3. To support allies;
 4. To avoid surprises;
 5. To define combat order;
