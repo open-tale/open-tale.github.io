@@ -90,4 +90,4 @@ attribute level and roll modifier.
 | **9** | 10 ⇒ 13 | 11 ⇒ 14 | **14 ⇒ 17** | 16 ⇒ 19 | 17 ⇒ 20 |
 
 These numbers are useful to design appropriate challenges as a GM and also for
-the players to understand their own powers.
+the players to understand their own limitations and capabilities.

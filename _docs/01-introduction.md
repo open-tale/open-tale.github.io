@@ -20,4 +20,5 @@ impact of great challenges. We want to laugh and be surprised.
 
 Such emotions require a certain timing that can easily be lost if the players
 have to constantly check the ruleset to make sure that nobody is breaking the
-system. Therefore, Open Tale is aligned with a call for uninterruptible fun.
+system. As opposed to that, Open Tale is aligned with a call for uninterruptible
+fun.

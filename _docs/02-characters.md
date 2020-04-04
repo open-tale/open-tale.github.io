@@ -16,11 +16,11 @@ Traits are the characteristics of a character that can be somehow represented
 numerically within the Open Tale system. A character can have the following
 traits:
 
-* *Level*
-* *Attributes*
-* *Perks*
-* *Qualities*
-* *Wealth*
+* [Level](#211-level)
+* [Attributes](#212-attributes)
+* [Perks](#213-perks)
+* [Qualities](#214-qualities)
+* [Wealth](#215-wealth)
 
 ### 2.1.1. Level
 
@@ -39,19 +39,19 @@ Open Tale has the following attributes:
 
 | Attribute | Effects
 |:-:|:-:
-| **Strength** | swing long weapons, wrestle a foe to submission, wear heavy armor, carry items
-| **Dexterity** | swing short weapons, use ranged weapons, pick a lock or a pocket
-| **Entropy** | manipulate energy and matter, control elements, summon minions
-| **Corruption** | poison a character, cause diseases, inflict temporary disabilities
+| **Strength** | swing long weapons, immobilize an enemy, break a door, wear heavy armor, carry items
+| **Dexterity** | swing short weapons, use ranged weapons, pick a lock or a pocket, perform first aid
+| **Energy** | manifest and control the elements
+| **Corruption** | poison foes, open wounds, provoke disabilities and dizziness
 | **Divinity** | heal with hands, provide support for allies, protect with heavenly shields
 | **Agility** | surprise foes, initiate combat, improve dodging skills
-| **Vitality** | heal with potions, increase the number of health points, enhance resistance to toxicity
-| **Persuasion** | convince other characters, haggle good prices, gather privileged information
-| **Malice** | induce chaotic mental states such as horror and confusion
-| **Volition** | perform laborous tasks, display bravery, maintain sanity
+| **Vitality** | heal with potions, increase health points, resist or purge toxicity
+| **Persuasion** | negociate better prices, gather privileged information
+| **Malice** | induce chaotic mental states such as demoralization, horror and confusion
+| **Volition** | perform laborous tasks, display bravery, maintain or recover sanity
 | **Awareness** | avoid surprise attacks, notice manipulation
 | **Intellect** | solve riddles, decypher codes, understand complex scriptures
-| **Speed** | enhance movement capability during combat
+| **Motion** | enhance movement capability during combat, jump higher and further
 
 Each attribute varies from 1 to 9. To go from an attribute level *X* to the
 next, the player must spend 3*X* attribute points.
