@@ -52,8 +52,8 @@ the score in case of disadvantage. These results can be interpreted as if the
 character got overconfident when on advantage... or was able to focus and
 overcome a situation of disadvantage.
 
-**Note**: Roll modifiers are mutually exclusive. Only one can be applied at
-once.
+**Note**: Roll modifiers are mutually exclusive. Only one of them can be applied
+at once.
 
 ### 3.2. Explosions
 
