@@ -46,7 +46,7 @@ Open Tale has the following attributes:
 | **Agility** | surprise foes, initiate combat | improve dodging skills
 | **Vitality** | heal with potions | increase the number of health points, enhance resistance to toxicity
 | **Persuasion** | convince other characters, haggle good prices, gather privileged information
-| **Malice** | induce chaotic mental states such as fear and confusion
+| **Malice** | induce chaotic mental states such as horror and confusion
 | **Volition** | perform laborous tasks | display bravery, maintain sanity
 | **Awareness** | avoid surprise attacks | notice manipulation
 | **Intellect** | solve riddles, decypher codes, understand complex scriptures
