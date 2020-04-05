@@ -21,9 +21,9 @@ Moving on... these are the different types of challenges in Open Tale:
 * [Unexpected encounters](#42-unexpected-encounters)
 * [Defining combat order](#43-defining-combat-order)
 * [Dealing direct damage](#44-dealing-direct-damage)
-* Applying debuffs
-* Healing damage
-* Removing debuffs
+* [Healing damage](#45-applying-debuffs)
+* [Applying debuffs](#46-applying-debuffs)
+* Cleansing debuffs
 * Moving during combat
 
 ## 4.1. Environmental challenges
@@ -98,3 +98,9 @@ applied.
 Close-range attacks can multi-target any number of enemies within the 1m range.
 Long-range attacks, however, can only multi-target enemies in a straight line.
 The degree of perfection for diagonal alignment is up to the GM.
+
+## 4.5. Healing damage
+
+## 4.6. Applying debuffs
+
+Debuffs have the maximum duration of one cycle, unless
