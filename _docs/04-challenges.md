@@ -13,11 +13,11 @@ Tale supports.
 These are the different types of challenges in Open Tale:
 
 * [Predefined challenges](#41-predefined-challenges)
-* [Unexpected encounters](#43-unexpected-encounters)
-* [Defining combat order](#44-defining-combat-order)
-* [Moving during combat](#45-moving-during-combat)
-* [Dealing direct damage](#46-dealing-direct-damage)
-* [Using skills](#47-using-skills)
+* [Unexpected encounters](#42-unexpected-encounters)
+* [Defining combat order](#43-defining-combat-order)
+* [Moving during combat](#44-moving-during-combat)
+* [Dealing direct damage](#45-dealing-direct-damage)
+* [Using skills](#46-using-skills)
 
 ## 4.1. Predefined challenges
 
@@ -37,9 +37,7 @@ of environmental challenges:
 
 The difficulty of such challenges are predefined by the GM.
 
-## 4.2. Predefined challenges
-
-## 4.3. Unexpected encounters
+## 4.2. Unexpected encounters
 
 When characters are forced into combat without previously noticing the presence
 of enemies, a surprise encounter happens. Characters that appeared out of the
@@ -47,7 +45,7 @@ blue (group *A*) roll for Dexterity and the ones that weren't expecting the
 encounter (group *B*) roll for Awareness. The GM decides how to choose the
 characters that were surprised.
 
-## 4.4. Defining combat order
+## 4.3. Defining combat order
 
 All characters involved in the combat should draw their weapons and roll for
 Agility. If there were an unexpected encounter, the characters that have already
@@ -61,12 +59,12 @@ The tiebreaker criteria follow the order below:
 4. The character with the highest Agility wins;
 5. The GM decides!
 
-## 4.5. Moving during combat
+## 4.4. Moving during combat
 
 Movement during combat is pretty straightforward. Roll for Motion and the
 obtained score represents the maximum distance that the character can move.
 
-## 4.6. Dealing direct damage
+## 4.5. Dealing direct damage
 
 Challenges that involve direct damage manifest as rolls for Strength, Dexterity
 and Energy. In any case, the obtained score is subtracted by the Defense of the
@@ -118,6 +116,6 @@ hitting everyone between the attacker and the target;
 
 * **Beware of friendly fire**
 
-## 4.7. Using skills
+## 4.6. Using skills
 
 Every skill is related to a main attribute
