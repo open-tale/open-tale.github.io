@@ -39,10 +39,10 @@ Open Tale has the following attributes:
 
 | Attribute | Effects
 |:-:|:-:
-| **Strength** | swing long weapons, immobilize an enemy, break a door, wear heavy armor, carry items
-| **Dexterity** | swing short weapons, use ranged weapons, pick a lock or a pocket, perform first aid
-| **Energy** | manifest and control the elements
-| **Corruption** | poison foes, open wounds, provoke disabilities and dizziness
+| **Strength** | swing long weapons, break a door, wear heavy armor, carry items
+| **Dexterity** | swing short weapons, use ranged weapons, pick a lock or a pocket
+| **Energy** | manifest and control the elements offensively
+| **Corruption** | poison foes, provoke disabilities and dizziness
 | **Divinity** | heal with hands, provide support for allies, protect with heavenly shields
 | **Agility** | surprise foes, initiate combat, improve dodging skills
 | **Vitality** | heal with potions, increase health points, resist or purge toxicity
@@ -80,13 +80,13 @@ character may die or become unconscious.
 * **Capacity**: Maximum number of items that a character may carry.
 
 * **Defense**: The character's ability to protect itself against damage by
-dodging it or creating magical shields or simply by absorbing impact with gear.
+dodging it, creating magical shields or simply by absorbing impact with gear.
 
 * **Willpower**: Ability to preserve a healthy psyche, protecting from external
 subtle influences.
 
-* **Toughness**: Physical constitution and equilibrium. Protects against
-submission, stun, poison, infections and diseases.
+* **Toughness**: Physical constitution, equilibrium and resilience. Protects
+from poison and illnesses.
 
 See below the formulas to define the base value of each quality:
 
@@ -96,7 +96,7 @@ See below the formulas to define the base value of each quality:
 | **Capacity** | 5 + Level + Strength
 | **Defense** | 5 + Agility + Divinity
 | **Willpower** | 5 + Volition + Awareness
-| **Toughness** | Strength + Vitality + Volition
+| **Toughness** | 5 + Volition + Vitality
 
 ### 2.1.5. Wealth
 
