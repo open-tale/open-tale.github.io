@@ -1,9 +1,9 @@
 ---
-title: 3. Roll system
+title: 4. Roll system
 description: Let's talk about dice. When and how to use them?
 ---
 
-# 3. Roll system
+# 4. Roll system
 
 Every player roll in Open Tale is based on an attribute. But before rolling dice
 for an attribute, it's necessary to know its respective *power*:

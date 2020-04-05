@@ -22,3 +22,31 @@ Such emotions require a certain timing that can easily be lost if the players
 have to constantly check the ruleset to make sure that nobody is breaking the
 system. As opposed to that, Open Tale is aligned with a call for uninterruptible
 fun.
+
+To accomplish that, there is a key aspect that the GM should be mindful during
+gameplay: **every roll matters**. This principle was well emphasized in [Open
+Legend][openlegend] - the initial source of inspiration for Open Tale - and it
+makes total sense.
+
+Rolls have two fundamental purposes in Open Tale:
+
+* Resolve *conflicts of interests* between characters;
+* Surpass challenges proposed by the GM.
+
+So, for example, if a character is attacking another, there exists a conflict of
+interest regarding the damage that can be dealt. Or if a character is trying to
+pick the lock of a treasure chest, the GM needs to define the minimum score to
+open it.
+
+It is recommended for the GM to lead the story in a way that every roll
+matters. In other words, failing at challenges should not result in empty
+outcomes. "So I try to open it again...", how fun is that? Instead, try to lead
+the party to unexpected situations as in "You hear the lock crack open, but you
+feel the rise of an intimidating presence behind you" or "You hear a strange
+sound coming from the lock and now you're unable to manouver it because it's
+completely stuck". When success is rewarded and failure has no trade-off, it
+feels dull and mechanical.
+
+That being said, [let's get started!](02-characters)
+
+[openlegend]: https://openlegendrpg.com

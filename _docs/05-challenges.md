@@ -1,9 +1,9 @@
 ---
-title: 4. Challenges
+title: 5. Challenges
 description: What are the available options to roll for?
 ---
 
-# 4. Challenges
+# 5. Challenges
 
 In a very broad sense, the purpose of dice rolls in Open Tale is for the
 characters to overcome challenges. So, in order to know the contexts in which
@@ -51,7 +51,7 @@ All characters involved in the combat should draw their weapons and roll for
 Agility. If there were an unexpected encounter, the characters that have already
 rolled for Agility are not allowed to roll again. Surprised characters just
 compete between themselves for combat initiative in the end of the combat queue.
-In the event of tie, the GM decides the order.
+In the event of a tie, the GM decides the combat order.
 
 ## 4.4. Moving during combat
 
@@ -120,3 +120,5 @@ the roll;
 
 * When using a skill as a **combo** move, the SP is equal to the remaining
 points after subtracting the target's resistence from the first roll score.
+
+The descriptive list of available skills can be found on the next chapter.

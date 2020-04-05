@@ -74,6 +74,8 @@ character progresses in the story.
 Every character level grants the player the right to purchase one new perk. That
 being said, the character starts off with one available perk to purchase.
 
+An extensive list of perks can be found on the next chapter.
+
 ### 2.1.4. Qualities
 
 Qualities are traits that cannot be changed directly. Instead, they're are the
