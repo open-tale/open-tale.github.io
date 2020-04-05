@@ -7,7 +7,7 @@ description: Perks
 
 ## Strong Legs
 
-When rolling for Motion during combats, add one third of the characters Strength
+When rolling for Motion during combat, add one third of the characters Strength
 to the final score.
 
 ## Firm Blows

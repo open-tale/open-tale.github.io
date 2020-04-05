@@ -17,6 +17,11 @@ order:
 * Spend an Heroic Badge;
 * Move their characters;
 * Switch weapons or shield;
-* Perform an attack or use a skill.
+* Perform an attack or use a skill;
+* Schedule a wearable gear switch.
 
-**Switching wearable gears in combat is forbidden!**
+Switching wearable gears during combat cannot be done in a single turn. When a
+player chooses to do so, the gear is instantly unequipped and sent to the
+character's inventory. The new gear can be equipped in the beginning of the next
+player's turn. Switching wearable gears is still allowed if the character's
+inventory is full.
