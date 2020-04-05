@@ -49,7 +49,8 @@ Open Tale has the following attributes:
 | **Constitution** | handle harsh conditions, resist toxicity and physical impairments
 | **Awareness** | avoid surprise attacks, spot traps, notice mental manipulation
 |~|~
-| **Persuasion** | negociate better prices, gather privileged information
+| **Persuasion** | gather privileged information, make characters act against their will
+| **Charisma** | negotiate better prices, make other characters trust you
 | **Deception** | fool characters, tell a convincing lie, disguise yourself
 | **Intellect** | solve riddles, decypher codes, understand complex scriptures
 |~|~
@@ -60,11 +61,11 @@ Open Tale has the following attributes:
 | **Creation** | summon minions or raise the dead to fight for you
 
 Each attribute varies from 1 to 9. To go from an attribute level *X* to the
-next, the player must spend 3*X* attribute points.
+next, the player must spend 2*X* attribute points.
 
 The character starts off with 30 attribute points and can recieve more by
 advancing on character levels. When going from a character level *Y* to the
-next, the character gains 4*Y* attribute points.
+next, the character gains 3*Y* attribute points.
 
 ### 2.1.3. Perks
 
@@ -138,7 +139,8 @@ The table below displays the total cost of the initial attribute levels:
 
 | Attribute level | Total cost
 |:-:|:-:
-| 2 | 3
-| 3 | 9
-| 4 | 18
+| 2 | 2
+| 3 | 6
+| 4 | 12
+| 5 | 20
 | 5 | 30
