@@ -39,17 +39,20 @@ Open Tale has the following attributes:
 
 | Attribute | Exemplary effects
 |:-:|:-:
-| **Strength** | swing long weapons, deflect attacks, wear heavy armor, carry items
+| **Strength** | swing medium and long weapons, deflect attacks, wear heavy armor, carry items
 | **Dexterity** | use short or ranged weapons, dodge attacks, pick a lock or a pocket
 | **Energy** | manifest and control the elements offensively or defensively
 | **Motion** | enhance movement capability during combat, run faster, jump higher
+|~|~
 | **Vitality** | heal with potions, increase health points
 | **Volition** | perform laborous tasks, display bravery, maintain sanity
 | **Constitution** | handle harsh conditions, resist toxicity and physical impairments
-| **Awareness** | avoid surprise attacks, notice mental manipulation
+| **Awareness** | avoid surprise attacks, spot traps, notice mental manipulation
+|~|~
 | **Persuasion** | negociate better prices, gather privileged information
 | **Deception** | fool characters, tell a convincing lie, disguise yourself
 | **Intellect** | solve riddles, decypher codes, understand complex scriptures
+|~|~
 | **Corruption** | poison foes, provoke disabilities and illnesses
 | **Malice** | induce chaotic mental states such as demoralization, horror and confusion
 | **Divinity** | heal with hands, bolster allies, cleanse debuffs
@@ -80,7 +83,8 @@ changes.
 * **Health Points**: The character's measure of health. When it reaches 0, the
 character may die or become unconscious.
 
-* **Capacity**: Maximum number of items that a character may carry.
+* **Capacity**: Maximum number of non-equiped items that a character may carry.
+Items that don't
 
 * **Defense**: The character's ability to protect itself from damage by
 deflecting/dodging attacks or simply absorbing impact with gear.
