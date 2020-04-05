@@ -1812,10 +1812,17 @@ pre code {
     }
     .col-xl-2 {
         -webkit-box-flex: 0;
-        -webkit-flex: 0 0 16.66666667%;
-        -ms-flex: 0 0 16.66666667%;
-        flex: 0 0 16.66666667%;
-        max-width: 16.66666667%
+        -webkit-flex: 0 0 14.33333333%;
+        -ms-flex: 0 0 14.33333333%;
+        flex: 0 0 14.33333333%;
+        max-width: 14.33333333%
+    }
+    .col-xl-21 {
+        -webkit-box-flex: 0;
+        -webkit-flex: 0 0 19%;
+        -ms-flex: 0 0 19%;
+        flex: 0 0 19%;
+        max-width: 19%
     }
     .col-xl-3 {
         -webkit-box-flex: 0;
@@ -18169,9 +18176,9 @@ html body .md-typeset .headerlink {
 @media(min-width:1200px) {
     .td-sidebar__inner {
         -webkit-box-flex: 0;
-        -webkit-flex: 0 1 320px;
-        -ms-flex: 0 1 320px;
-        flex: 0 1 320px
+        -webkit-flex: 0 1 390px;
+        -ms-flex: 0 1 390px;
+        flex: 0 1 390px
     }
 }
 
