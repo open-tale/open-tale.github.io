@@ -19,4 +19,4 @@ order:
 * Switch weapons or shield;
 * Perform an attack or use a skill.
 
-**Switching wearable gears in combat is forbidden**.
+**Switching wearable gears in combat is forbidden!**
