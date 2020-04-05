@@ -26,10 +26,11 @@ has three options to roll: 1d12+1d4, 1d10+1d6 or 2d8.
 
 ## 3.1. Heroism
 
-The GM can reward characters with *Heroic Badges*, which can be spent before any
-roll. If the player chooses to spend it, the roll happens with an extra d4.
+The GM can reward characters with *Heroic Badges*, which can be spent in the
+beginning of the player's turns. If the player chooses so, every roll on that
+turn happens with an extra d4.
 
-Characters cannot carry more than one Heroic Badge.
+Characters cannot carry more than one Heroic Badge at a time.
 
 ## 3.2. Roll modifiers
 

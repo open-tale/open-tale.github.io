@@ -37,21 +37,24 @@ least 1 point.
 
 Open Tale has the following attributes:
 
-| Attribute | Effects
+| Attribute | Exemplary effects
 |:-:|:-:
-| **Strength** | swing long weapons, break a door, wear heavy armor, carry items
-| **Dexterity** | swing short weapons, use ranged weapons, pick a lock or a pocket
-| **Energy** | manifest and control the elements offensively
-| **Corruption** | poison foes, provoke disabilities and dizziness
-| **Divinity** | heal with hands, provide support for allies, protect with heavenly shields
-| **Agility** | surprise foes, initiate combat, improve dodging skills
-| **Vitality** | heal with potions, increase health points, resist or purge toxicity
+| **Strength** | swing long weapons, deflect attacks, wear heavy armor, carry items
+| **Dexterity** | use short or ranged weapons, dodge attacks, pick a lock or a pocket
+| **Energy** | manifest and control the elements offensively or defensively
+| **Motion** | enhance movement capability during combat, run faster, jump higher
+| **Vitality** | heal with potions, increase health points
+| **Volition** | perform laborous tasks, display bravery, maintain sanity
+| **Constitution** | handle harsh conditions, resist toxicity and physical impairments
+| **Awareness** | avoid surprise attacks, notice mental manipulation
 | **Persuasion** | negociate better prices, gather privileged information
-| **Malice** | induce chaotic mental states such as demoralization, horror and confusion
-| **Volition** | perform laborous tasks, display bravery, maintain or recover sanity
-| **Awareness** | avoid surprise attacks, notice manipulation
+| **Deception** | fool characters, tell a convincing lie, disguise yourself
 | **Intellect** | solve riddles, decypher codes, understand complex scriptures
-| **Motion** | enhance movement capability during combat, jump higher and further
+| **Corruption** | poison foes, provoke disabilities and illnesses
+| **Malice** | induce chaotic mental states such as demoralization, horror and confusion
+| **Divinity** | heal with hands, bolster allies, cleanse debuffs
+| **Alteration** | change the shape of the body, grow claws or a hard skin
+| **Creation** | summon minions or raise the dead to fight for you
 
 Each attribute varies from 1 to 9. To go from an attribute level *X* to the
 next, the player must spend 3*X* attribute points.
@@ -79,24 +82,24 @@ character may die or become unconscious.
 
 * **Capacity**: Maximum number of items that a character may carry.
 
-* **Defense**: The character's ability to protect itself against damage by
-dodging it, creating magical shields or simply by absorbing impact with gear.
+* **Defense**: The character's ability to protect itself from damage by
+deflecting/dodging attacks or simply absorbing impact with gear.
 
 * **Willpower**: Ability to preserve a healthy psyche, protecting from external
-subtle influences.
+influences.
 
 * **Toughness**: Physical constitution, equilibrium and resilience. Protects
-from poison and illnesses.
+from poison, illnesses and disabilities.
 
 See below the formulas to define the base value of each quality:
 
 | Quality | Formula
 |:-:|:-:
-| **Health Points** | 10 + Level + Vitality
-| **Capacity** | 5 + Level + Strength
-| **Defense** | 5 + Agility + Divinity
+| **Health Points** | 10 + Level + 2 * Vitality
+| **Capacity** | 10 + Level + Strength
+| **Defense** | 5 + Strength + Dexterity
+| **Toughness** | 5 + Volition + Constitution
 | **Willpower** | 5 + Volition + Awareness
-| **Toughness** | 5 + Volition + Vitality
 
 ### 2.1.5. Wealth
 
