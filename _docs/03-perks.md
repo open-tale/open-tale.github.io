@@ -1,31 +1,30 @@
 ---
 title: 3. Perks
-description: Perks
+description: Extra abilities for gameplay
 ---
 
 # 3. Perks
 
-### Firm Blows
+## 3.1. Combative perks
 
-When performing Strength based attacks, add one third of the character's
-Dexterity to the final score.
+#### Thirst for Blood
 
-### Strong Legs
+If an attack made with a close-range weapon brings the target's HP down to 0,
+the player may choose another target. Upon choosing it, the character moves
+towards it and, if possible, attacks it with another close-range attack.
 
-When rolling for Motion during combat, add one third of the characters Strength
-to the final score.
+The path towards the target must be the shortest one. The scores for movement
+range and attack damage are calculated with new rolls.
 
-### Intimidation
+#### Dash Attack
 
-When rolling for Persuasion, add one third of the character's Strength to the
-final score.
+When performing a close-range attack on a target right after moving towards it,
+the character gets an extra point on the final score of the roll.
 
-### Smart Worker
+#### Side Slash
 
-When rolling for Volition, add one third of the character's Intellect to the
-final score.
+When performing a close-range attack on a target right after moving from a cell
+that is adjacent to the target to another cell that is also adjacent to the
+target, the character gets an extra point on the final score of the roll.
 
-### Divine Inspiration
-
-When rolling for Intellect, add one third of the character's Divinity to the
-final score.
+## 3.2. Social perks

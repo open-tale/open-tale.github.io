@@ -73,20 +73,20 @@ Qualities are traits that cannot be changed directly. Instead, they're are the
 result of the character's level and attributes, being subject to further
 changes.
 
-* **Health Points**: The character's measure of health. When it reaches 0, the
-character may die or become unconscious.
+* **Health Points (HP)**: The character's measure of health. When it reaches 0,
+the character may become unconscious or die;
 
-* **Capacity**: Maximum number of non-equiped items that a character may carry.
-Items that don't
+* **Capacity (CP)**: Maximum number of non-equiped items that a character may
+carry;
 
-* **Defense**: The character's ability to protect itself from damage by
-deflecting/dodging attacks or simply absorbing impact with gear.
+* **Defense (DF)**: The character's ability to protect itself from damage by
+deflecting/dodging attacks or simply absorbing impact with gear;
 
-* **Willpower**: Ability to preserve a healthy psyche, protecting from external
-influences.
+* **Willpower (WP)**: Ability to preserve a healthy psyche, protecting from
+external influences.
 
-* **Toughness**: Physical constitution, equilibrium and resilience. Protects
-from poison, illnesses and disabilities.
+* **Toughness (TN)**: Physical constitution, equilibrium and resilience.
+Protects from poison, illnesses and disabilities.
 
 See below the formulas to define the base value of each quality:
 

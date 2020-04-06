@@ -63,7 +63,7 @@ obtained score represents the maximum distance that the character can move.
 Challenges that involve direct damage manifest as rolls for Strength, Dexterity
 and Energy. In any case, the obtained score is subtracted by the Defense of the
 target character and the difference results in direct damage. If the difference
-is smaller than 1, then no damage is done.
+is smaller than 1, no damage is done.
 
 #### Damage regarding the range
 
