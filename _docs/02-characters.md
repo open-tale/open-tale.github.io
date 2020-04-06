@@ -18,8 +18,8 @@ traits:
 
 * [Level](#211-level)
 * [Attributes](#212-attributes)
-* [Perks](#213-perks)
-* [Qualities](#214-qualities)
+* [Qualities](#213-qualities)
+* [Perks](#214-perks)
 * [Wealth](#215-wealth)
 
 ### 2.1.1. Level
@@ -67,17 +67,7 @@ The character starts off with 30 attribute points and can recieve more by
 advancing on character levels. When going from a character level *Y* to the
 next, the character gains 3*Y* attribute points.
 
-### 2.1.3. Perks
-
-Perks are traits that grant constant passive boosts and can be acquired as the
-character progresses in the story.
-
-Every character level grants the player the right to purchase one new perk. That
-being said, the character starts off with one available perk to purchase.
-
-An extensive list of perks can be found on the next chapter.
-
-### 2.1.4. Qualities
+### 2.1.3. Qualities
 
 Qualities are traits that cannot be changed directly. Instead, they're are the
 result of the character's level and attributes, being subject to further
@@ -108,6 +98,15 @@ See below the formulas to define the base value of each quality:
 | **Toughness** | 5 + Volition + Constitution
 | **Willpower** | 5 + Volition + Awareness
 
+### 2.1.4. Perks
+
+Perks are unique abilities that can be acquired as the character progresses in
+the story. Every character level grants the player the right to purchase one new
+perk. That being said, the character starts off with one available perk to
+purchase.
+
+An extensive list of perks can be found on the next chapter.
+
 ### 2.1.5. Wealth
 
 Wealth relates to what the character can purchase with the in-game money
@@ -132,8 +131,9 @@ not grant wealth.
 These are the steps to create a character within the Open Tale system:
 
 1. Spend any of the first 30 attribute points;
-2. Choose your initial perk, if you want to do it now;
-3. Compute the character's qualities.
+2. Compute the character's qualities;
+3. Choose an initial perk, if intended;
+4. Set the initial wealth to 1.
 
 The table below displays the total cost of the initial attribute levels:
 
@@ -143,4 +143,4 @@ The table below displays the total cost of the initial attribute levels:
 | 3 | 6
 | 4 | 12
 | 5 | 20
-| 5 | 30
+| 6 | 30

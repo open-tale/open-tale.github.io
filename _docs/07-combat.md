@@ -20,8 +20,11 @@ order:
 * Perform an attack or use a skill;
 * Schedule a wearable gear switch.
 
-Switching wearable gears during combat cannot be done in a single turn. When a
-player chooses to do so, the gear is instantly unequipped and sent to the
-character's inventory. The new gear can be equipped in the beginning of the next
-player's turn. Switching wearable gears is still allowed if the character's
-inventory is full.
+Unless explicitly told otherwise by a perk or a skill, it's forbidden to do the
+same action twice in a single turn.
+
+Switching wearable gears during combat cannot be done in a single turn. If
+character *A* does so, the other gear is removed from the inventory, the current
+gear is unequipped and sent to the inventory and the turn ends. In the beginning
+of the next character *A*'s turn, the new gear is equipped. Only one wearable
+gear switch is allowed per turn.
