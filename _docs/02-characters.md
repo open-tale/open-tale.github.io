@@ -39,9 +39,8 @@ Open Tale has the following attributes:
 
 | Attribute | Exemplary effects
 |:-:|:-:
-| **Strength** | swing medium and long weapons, deflect attacks, wear heavy armor, carry items
-| **Dexterity** | use short or ranged weapons, dodge attacks, pick a lock or a pocket
-| **Energy** | manifest and control the elements offensively or defensively
+| **Strength** | swing medium and long weapons, parry attacks, wear heavy armor, carry items
+| **Dexterity** | use short/ranged weapons, dodge/deflect attacks, pick locks or pockets, wear leather armor
 | **Motion** | enhance movement capability during combat, run faster, jump higher
 |~|~
 | **Vitality** | heal with potions, increase health points
@@ -55,6 +54,7 @@ Open Tale has the following attributes:
 |~|~
 | **Corruption** | poison foes, provoke disabilities and illnesses
 | **Malice** | induce chaotic mental states such as demoralization, horror and confusion
+| **Energy** | manifest and control the nature elements
 | **Divinity** | heal with hands, bolster allies, cleanse debuffs
 | **Alteration** | change the shape of the body, grow claws or a hard skin
 | **Creation** | summon minions or raise the dead to fight for you

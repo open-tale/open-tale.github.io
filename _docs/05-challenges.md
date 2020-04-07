@@ -60,17 +60,17 @@ obtained score represents the maximum distance that the character can move.
 
 ## 4.5. Dealing direct damage
 
-Challenges that involve direct damage manifest as rolls for Strength, Dexterity
-and Energy. In any case, the obtained score is subtracted by the Defense of the
-target character and the difference results in direct damage. If the difference
-is smaller than 1, no damage is done.
+Challenges that involve direct damage require rolls for Strength or Dexterity.
+In any case, the obtained score is subtracted by the Defense of the target
+and the result causes direct damage. If the difference is smaller than 1, no
+damage is done.
 
 #### Damage regarding the range
 
 * For close-range attacks (swords, clubs, axes, daggers), the distance must not
 be greater than 1m.
 
-* For long-range attacks (bows and elemental magic), there is a distance from
+* For long-range attacks (bows, slingshots, shurikens), there is a distance from
 which the attack loses effectiveness. Such distance is equal to the obtained
 score on the roll. For distances greater than that, the damage is reduced by 1
 for each meter further.
@@ -85,25 +85,12 @@ for each meter further.
 
 #### Damage regarding the number of targets
 
-* When attacking 2 enemies at the same time, the Disadvantage midifier should be
+* When attacking 2 enemies at the same time, the Disadvantage modifier should be
 applied;
 
 * For 3 enemies or more, the Inferiority modifier should be applied;
 
 * Skills can only target one character at a time.
-
-#### Damage regarding the area of effect
-
-* Close-range attacks can be highly selective, meaning that the attacker can
-choose the exact targets within 1m;
-
-* Long-range attacks performed with Dexterity can only go in straight lines,
-hitting every enemy between the character and the target;
-
-* Long-range attacks performed with Energy can hit a target and, if intended,
-every enemy within a 1m range from it.
-
-* **Beware of friendly fire**
 
 ## 4.6. Using skills
 
