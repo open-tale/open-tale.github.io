@@ -68,20 +68,11 @@ damage is done.
 #### Damage regarding the range
 
 * For close-range attacks (swords, clubs, axes, daggers), the distance must not
-be greater than 1m.
+be greater than 1m;
 
-* For long-range attacks (bows, slingshots, shurikens), there is a distance from
-which the attack loses effectiveness. Such distance is equal to the obtained
-score on the roll. For distances greater than that, the damage is reduced by 1
-for each meter further.
-
-    Example: the roll to shoot a bow resulted in a score of 12, the enemy has 6
-    points of Defense and is placed at a distance of 14m from the shooter. If it
-    weren't for the range, the attack would have dealt 6 points of damage (12 -
-    6), but the target is 2 meters further away from the range limit so the
-    final damage is 4 (6 - 2).
-
-* For skills, going past the range limit is simply prohibitive.
+* For long-range attacks (bows, slingshots, shurikens), there is a maximum
+distance allowed between the character and the target. Such distance is equal to
+the obtained score on the roll.
 
 #### Damage regarding the number of targets
 

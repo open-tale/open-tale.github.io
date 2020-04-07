@@ -5,6 +5,8 @@ description: Extra abilities for gameplay
 
 # 3. Perks
 
+## 3.1 Close-range combat
+
 #### Thirst for Blood
 
 If an attack made with a close-range weapon brings the target's HP down to 0,
@@ -44,6 +46,8 @@ of the roll.
 Upon completelly defending an attack, the character's Defense is increased by 1
 point until it gets hit or the combat ends.
 
+## 3.2 Long-range combat
+
 #### The Running Shooter
 
 The character can move and attack with a long-range weapon at the same time if
@@ -54,34 +58,48 @@ character will shoot and the target.
 #### Deadly Tower
 
 If the character hasn't moved since the last attack with a long-range weapon,
-other attacks made with a long-range weapon will have 1 extra point of damage.
-This effect only wears off upon moving.
+when performing an attack with a long-range weapon, add 1 extra point to the
+final score of the roll. This (cummulative) effect only wears off upon moving.
 
-#### True Sight
+#### Sharp Shooter
 
-Adds
+When attacking with a long-range weapon, the maximum range limit is increased by
+3.
 
 #### V-Shooter
 
 The character becomes able to hit different targets that aren't necessarily
-positioned in a straight line. The maximum angle allowed is 90°.
+positioned in a straight line. The maximum angle allowed between two shots is
+90°.
+
+## 3.3 Personality
 
 #### Inner Confidence
 
 Uppon succeeding on a challenge after rolling for Persuasion, the character gets
 1 extra point on the final score when rolling for Persuasion again.
 
+#### Manipulator
+
+You may roll for Malice on challenges that otherwise require rolls for
+Deception.
+
 #### Genius
 
 You may roll for Intellect on challenges that otherwise require rolls for
 Volition.
+
+#### Divine Inspiration
+
+When rolling for Intellect, add half of the character's Divinity to the final
+score. If the Divinity level is odd, add 1 to it before dividing by 2.
 
 #### Advocate
 
 When rolling for Persuasion, add half of the character's Intellect to the final
 score. If the Intellect level is odd, add 1 to it before dividing by 2.
 
-#### Manipulator
+#### Filthy Liar
 
-You may roll for Malice on challenges that otherwise require rolls for
-Deception.
+When rolling for Deception, add half of the character's Persuasion to the final
+score. If the Persuasion level is odd, add 1 to it before dividing by 2.
