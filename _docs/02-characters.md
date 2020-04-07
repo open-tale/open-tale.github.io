@@ -49,10 +49,9 @@ Open Tale has the following attributes:
 | **Constitution** | handle harsh conditions, resist toxicity and physical impairments
 | **Awareness** | avoid surprise attacks, spot traps, notice mental manipulation
 |~|~
-| **Persuasion** | gather privileged information, make characters act against their will
-| **Charisma** | negotiate better prices, make other characters trust you
+| **Persuasion** | negotiate better prices, gather privileged information
 | **Deception** | fool characters, tell a convincing lie, disguise yourself
-| **Intellect** | solve riddles, decypher codes, understand complex scriptures
+| **Intellect** | solve riddles, decypher codes, understand old scriptures, defuse a trap
 |~|~
 | **Corruption** | poison foes, provoke disabilities and illnesses
 | **Malice** | induce chaotic mental states such as demoralization, horror and confusion

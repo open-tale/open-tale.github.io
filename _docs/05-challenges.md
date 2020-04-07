@@ -85,10 +85,10 @@ for each meter further.
 
 #### Damage regarding the number of targets
 
-* When targeting 2 enemies at the same time, the Disadvantage midifier should be
+* When attacking 2 enemies at the same time, the Disadvantage midifier should be
 applied;
 
-* For 3 enemies or more, the Inferiority modifier should be applied.
+* For 3 enemies or more, the Inferiority modifier should be applied;
 
 * Skills can only target one character at a time.
 
@@ -98,15 +98,10 @@ applied;
 choose the exact targets within 1m;
 
 * Long-range attacks performed with Dexterity can only go in straight lines,
-hitting everyone between the attacker and the target;
+hitting every enemy between the character and the target;
 
-* Long-range attacks performed with Energy can have three shapes:
-
-    * Circular and radial: hits everyone until a certain range
-
-    * Circular and non-radial: hits a target and everyone near it
-
-    * Straight line: hits everyone between the attacker and the target
+* Long-range attacks performed with Energy can hit a target and, if intended,
+every enemy within a 1m range from it.
 
 * **Beware of friendly fire**
 
