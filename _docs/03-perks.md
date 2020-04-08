@@ -50,10 +50,9 @@ point until it gets hit or the combat ends.
 
 #### The Running Shooter
 
-The character can move and attack with a long-range weapon at the same time if
-the attack requires a roll for Dexterity. To do so, roll for Motion and then
-roll for Dexterity. Choose the character's destination, the cell from which the
-character will shoot and the target.
+The character can move and attack with a long-range weapon at the same time. To
+do so, roll for Motion and then roll for Dexterity. Choose the character's
+destination, the cell from which the character will shoot and the target.
 
 #### Deadly Tower
 
@@ -63,14 +62,15 @@ final score of the roll. This (cummulative) effect only wears off upon moving.
 
 #### Sharp Shooter
 
+If the character and the enemies are *perfectly* aligned, attacking more than 1
+target at the same time can be done without applying the Disadvantage or
+Inferiority roll modifier.
+
+#### True Sight
+
 When attacking with a long-range weapon, the maximum range limit is increased by
-3.
-
-#### V-Shooter
-
-The character becomes able to hit different targets that aren't necessarily
-positioned in a straight line. The maximum angle allowed between two shots is
-90°.
+half of the character's Dexterity. If the character's Dexterity is odd, add 1 to
+it before dividing by 2.
 
 ## 3.3 Personality
 
