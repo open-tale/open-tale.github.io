@@ -41,9 +41,8 @@ The difficulty of such challenges are predefined by the GM.
 
 When characters are forced into combat without previously noticing the presence
 of enemies, a surprise encounter happens. Characters that appeared out of the
-blue (group *A*) roll for Dexterity and the ones that weren't expecting the
-encounter (group *B*) roll for Awareness. The GM decides how to choose the
-characters that were surprised.
+blue roll for Dexterity and the ones that weren't expecting the encounter roll
+for Alertness. The GM decides how to choose the characters that were surprised.
 
 ## 4.3. Defining combat order
 
@@ -70,28 +69,19 @@ damage is done.
 * For close-range attacks (swords, clubs, axes, daggers), the distance must not
 be greater than 1m;
 
-* For long-range attacks (bows, slingshots, shurikens), there is a maximum
-distance allowed between the character and the target. Such distance is equal to
-the obtained score on the roll.
+* For long-range attacks (with weapons or magic), there is a maximum distance
+allowed between the character and the target. Such distance is equal to the
+obtained score on the roll.
 
 #### Damage regarding the number of targets
 
 * When attacking 2 enemies at the same time, the Disadvantage modifier should be
 applied;
 
-* For 3 enemies or more, the Inferiority modifier should be applied;
-
-* Skills can only target one character at a time.
+* For 3 enemies or more, the Inferiority modifier should be applied.
 
 ## 4.6. Using skills
 
 A skill requires a roll score of a certain attribute to account as its *Skill
-Power* (SP) and can be triggered in two circumstances: as raw or combo moves.
-
-* When using a skill as a **raw** move, the SP is equal to the score achieved on
-the roll;
-
-* When using a skill as a **combo** move, the SP is equal to the remaining
-points after subtracting the target's resistence from the first roll score.
-
-The descriptive list of available skills can be found on the next chapter.
+Power* (SP). An extensive list of the available skills can be found on the next
+chapter.

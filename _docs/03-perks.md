@@ -38,8 +38,7 @@ shortest known path.
 #### Confident Blow
 
 On the first turn after completely defending an attack from a target, when
-attacking that same target, the character gets 1 extra point on the final score
-of the roll.
+attacking that same target, apply the Superiority roll modifier.
 
 #### Made of Stone
 
@@ -71,35 +70,3 @@ Inferiority roll modifier.
 When attacking with a long-range weapon, the maximum range limit is increased by
 half of the character's Dexterity. If the character's Dexterity is odd, add 1 to
 it before dividing by 2.
-
-## 3.3 Personality
-
-#### Inner Confidence
-
-Uppon succeeding on a challenge after rolling for Persuasion, the character gets
-1 extra point on the final score when rolling for Persuasion again.
-
-#### Manipulator
-
-You may roll for Malice on challenges that otherwise require rolls for
-Deception.
-
-#### Genius
-
-You may roll for Intellect on challenges that otherwise require rolls for
-Volition.
-
-#### Divine Inspiration
-
-When rolling for Intellect, add half of the character's Divinity to the final
-score. If the Divinity level is odd, add 1 to it before dividing by 2.
-
-#### Advocate
-
-When rolling for Persuasion, add half of the character's Intellect to the final
-score. If the Intellect level is odd, add 1 to it before dividing by 2.
-
-#### Filthy Liar
-
-When rolling for Deception, add half of the character's Persuasion to the final
-score. If the Persuasion level is odd, add 1 to it before dividing by 2.

@@ -41,30 +41,22 @@ Open Tale has the following attributes:
 |:-:|:-:
 | **Strength** | swing medium and long weapons, parry attacks, wear heavy armor, carry items
 | **Dexterity** | use short/ranged weapons, dodge/deflect attacks, pick locks or pockets, wear leather armor
-| **Motion** | enhance movement capability during combat, run faster, jump higher
+| **Magicy** | aptitude for supportive and offensive magic
+| **Motion** | movement capability during combat, run faster, jump higher
 |~|~
-| **Vitality** | heal with potions, increase health points
+| **Vitality** | heal with potions, increase health points, resist toxicity
+| **Alertness** | avoid surprise attacks, spot traps, notice mental manipulation
 | **Volition** | perform laborous tasks, display bravery, maintain sanity
-| **Constitution** | handle harsh conditions, resist toxicity and physical impairments
-| **Awareness** | avoid surprise attacks, spot traps, notice mental manipulation
 |~|~
-| **Persuasion** | negotiate better prices, gather privileged information
-| **Deception** | fool characters, tell a convincing lie, disguise yourself
-| **Intellect** | solve riddles, decypher codes, understand old scriptures, defuse a trap
-|~|~
-| **Corruption** | poison foes, provoke disabilities and illnesses
-| **Malice** | induce chaotic mental states such as demoralization, horror and confusion
-| **Energy** | manifest and control the nature elements
-| **Divinity** | heal with hands, bolster allies, cleanse debuffs
-| **Alteration** | change the shape of the body, grow claws or a hard skin
-| **Creation** | summon minions or raise the dead to fight for you
+| **Persuasion** | negotiate better prices, gather privileged information, tell a lie
+| **Intellect** | solve riddles, decypher codes, understand old scriptures
 
-Each attribute varies from 1 to 9. To go from an attribute level *X* to the
-next, the player must spend 2*X* attribute points.
+Each attribute varies from 1 to 9. To go from an attribute level *X* to the next
+(*X* + 1), the cost is *X* + 1 attribute points.
 
-The character starts off with 30 attribute points and can recieve more by
+The character starts off with 20 attribute points and can recieve more by
 advancing on character levels. When going from a character level *Y* to the
-next, the character gains 3*Y* attribute points.
+next (*Y* + 1), the character is awarded with *Y* + 1 attribute points.
 
 ### 2.1.3. Qualities
 
@@ -81,11 +73,11 @@ carry;
 * **Defense (DF)**: The character's ability to protect itself from damage by
 deflecting/dodging attacks or simply absorbing impact with gear;
 
-* **Willpower (WP)**: Ability to preserve a healthy psyche, protecting from
-external influences.
-
 * **Toughness (TN)**: Physical constitution, equilibrium and resilience.
 Protects from poison, illnesses and disabilities.
+
+* **Willpower (WP)**: Ability to preserve a healthy psyche, protecting from
+external subtle influences.
 
 See below the formulas to define the base value of each quality:
 
@@ -94,17 +86,14 @@ See below the formulas to define the base value of each quality:
 | **Health Points** | 10 + Level + 2 * Vitality
 | **Capacity** | 10 + Level + Strength
 | **Defense** | 5 + Strength + Dexterity
-| **Toughness** | 5 + Volition + Constitution
-| **Willpower** | 5 + Volition + Awareness
+| **Toughness** | 5 + Volition + Vitality
+| **Willpower** | 5 + Volition + Alertness
 
 ### 2.1.4. Perks
 
-Perks are unique abilities that can be acquired as the character progresses in
-the story. Every character level grants the player the right to purchase one new
-perk. That being said, the character starts off with one available perk to
-purchase.
-
-An extensive list of perks can be found on the next chapter.
+Perks are combative abilities that can be purchased at anytime outside combat
+during the campaign. Every character may choose **three** perks. An extensive
+list of perks can be found on the next chapter.
 
 ### 2.1.5. Wealth
 
@@ -129,17 +118,17 @@ not grant wealth.
 
 These are the steps to create a character within the Open Tale system:
 
-1. Spend any of the first 30 attribute points;
+1. Spend any of the first 20 attribute points;
 2. Compute the character's qualities;
-3. Choose an initial perk, if intended;
+3. Choose the character's perks, if intended;
 4. Set the initial wealth to 1.
 
 The table below displays the total cost of the initial attribute levels:
 
-| Attribute level | Total cost
-|:-:|:-:
-| 2 | 2
-| 3 | 6
-| 4 | 12
-| 5 | 20
-| 6 | 30
+| Attribute level | Total cost | Partial costs
+|:-:|:-:|:-:
+| 2 | 2 | 2
+| 3 | 5 | 2 + 3
+| 4 | 9 | 2 + 3 + 4
+| 5 | 14 | 2 + 3 + 4 + 5
+| 6 | 20 | 2 + 3 + 4 + 5 + 6
