@@ -17,7 +17,8 @@ These are the different types of challenges in Open Tale:
 * [Defining combat order](#53-defining-combat-order)
 * [Moving during combat](#54-moving-during-combat)
 * [Dealing direct damage](#55-dealing-direct-damage)
-* [Using skills](#56-using-skills)
+* [Healing with potions](#56-healing-with-potions)
+* [Using skills](#57-using-skills)
 
 ## 5.1. Predefined challenges
 
@@ -80,7 +81,12 @@ applied;
 
 * For 3 enemies or more, the Inferiority modifier should be applied.
 
-## 5.6. Using skills
+## 5.6. Healing with potions
+
+Healing with potions requires a roll for Vitality. The amount healed is equal
+to one third of the final score.
+
+## 5.7. Using skills
 
 A skill requires a roll score of a certain attribute to account as its *Skill
 Power* (SP). An extensive list of the available skills can be found on the next
