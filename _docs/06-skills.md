@@ -33,6 +33,19 @@ Bash mark of level SP.
 
 * The Bash mark wears off in the end of the target's next turn.
 
+#### Demoralize
+
+* Roll for: Strength
+
+* The maximum range is equal to 1m.
+
+* If the SP is higher than the target's Willpower, the target gets marked with a
+Demoralized mark of level SP.
+
+* A character marked with Demoralized is unable to have explosions on rolls.
+
+* The Demoralized mark wears off in the end of the target's next turn.
+
 #### Strong Kick
 
 * Roll for: Strength
@@ -88,8 +101,8 @@ its next rolls for Motion.
 * If the SP is higher than the target's Toughness, the target gets marked with a
 Intoxicated mark of level SP.
 
-* A character with an Intoxicated mark will receive 1 damage everytime its turn
-comes.
+* A character with an Intoxicated mark will receive 1 damage in the beginning of
+each of its turns.
 
 * The Intoxicated mark wears off in the end of the combat.
 
@@ -128,7 +141,7 @@ this range gets hit, so **beware of friendly fire**.
 
 * Roll for: Magicy
 
-* The maximum range is equal to Magicy, in meters.
+* The maximum range is equal to the Magicy level, in meters.
 
 * If the SP is higher than the target's Toughness, the target gets pushed by a
 distance equals to the SP subtracted by the target's Toughness.
@@ -144,7 +157,7 @@ damage, each.
 
 * Roll for: Magicy
 
-* The maximum range is equal to 5 + Magicy, in meters.
+* The maximum range is equal to the Magicy level, in meters.
 
 * Heals the target by one third of the SP.
 
@@ -152,7 +165,7 @@ damage, each.
 
 * Roll for: Magicy
 
-* The maximum range is equal to 5 + Magicy, in meters.
+* The maximum range is equal to the Magicy level, in meters.
 
 * The target receives a Bolster mark of level SP.
 
@@ -161,12 +174,12 @@ damage, each.
 * A character with a Bolster mark of level SP, when rolling for its highest
 attribute, cannot get a final score lower than SP.
 
-* It's not allowed for a character marked with Bolster to cast Bolster.
+* Characters marked with Bolster are not allowed to cast Bolster.
 
 #### Dispell
 
 * Roll for: Magicy
 
-* The maximum range is equal to 5 + Magicy, in meters.
+* The maximum range is equal to the Magicy level, in meters.
 
 * Removes any mark of level below SP

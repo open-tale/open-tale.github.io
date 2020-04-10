@@ -35,7 +35,7 @@ Characters cannot carry more than one Heroic Badge at a time.
 ## 3.2. Roll modifiers
 
 Roll modifiers are ingredients that can be used to spice up the story in certain
-moments. There are four mutually exclusive roll modifiers in Open Tale:
+moments. There are four **mutually exclusive** roll modifiers in Open Tale:
 *Inferiority*, *Disadvantage*, *Advantage* and *Superiority*.
 
 Inferiority and Disadvantage are nerfs applied on the die with the highest
@@ -62,6 +62,26 @@ overcome a situation of Disadvantage.
 
 Some circumstances tell you exactly which modifier to apply, but the GM is free
 to say which modifier can be used throughout the game.
+
+#### Compensating modifiers
+
+It's possible that characters become subject to opposing modifiers, such as
+Advantage and Disadvantage at the same time. When this happens, we can think of
+modifiers as integer numbers:
+
+| Inferiority | Disadvantage | Advantage | Superiority
+|:-:|:-:|:-:|:-:
+| -2 | -1 | 1 | 2
+
+So, continuing on the given example, if the character is on Advantage **and**
+Disadvantage, they nullify each other, resulting in no modifier at all (1 - 1 =
+0).
+
+Another example: suppose that a character is on Superiority **and**
+Disadvantage. The resulting modifier is Advantage because 2 - 1 = 1.
+
+This is just a general guideline. Ultimately, the GM has the final word
+regarding which modifier should be applied (or no modifier at all).
 
 ## 3.3. Explosions
 
