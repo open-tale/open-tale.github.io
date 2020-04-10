@@ -70,9 +70,8 @@ complete defense happens and no damage is done.
 * For close-range attacks (swords, clubs, axes, daggers), the distance must not
 be greater than 1m;
 
-* For long-range attacks (bows, slingshots, shurikens), there is a maximum
-distance allowed between the character and the target. Such distance is equal to
-the obtained score on the roll.
+* For long-range attacks (bows, slingshots, shurikens), the maximum distance
+allowed between the character and the target is 10 + Dexterity, in meters.
 
 #### Damage regarding the number of targets
 
