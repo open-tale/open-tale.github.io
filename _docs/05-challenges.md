@@ -12,14 +12,14 @@ Tale supports.
 
 These are the different types of challenges in Open Tale:
 
-* [Predefined challenges](#41-predefined-challenges)
-* [Unexpected encounters](#42-unexpected-encounters)
-* [Defining combat order](#43-defining-combat-order)
-* [Moving during combat](#44-moving-during-combat)
-* [Dealing direct damage](#45-dealing-direct-damage)
-* [Using skills](#46-using-skills)
+* [Predefined challenges](#51-predefined-challenges)
+* [Unexpected encounters](#52-unexpected-encounters)
+* [Defining combat order](#53-defining-combat-order)
+* [Moving during combat](#54-moving-during-combat)
+* [Dealing direct damage](#55-dealing-direct-damage)
+* [Using skills](#56-using-skills)
 
-## 4.1. Predefined challenges
+## 5.1. Predefined challenges
 
 These are challenges in which characters don't interact with other characters.
 Instead, they interact with elements in the scenario. Here we have some examples
@@ -37,14 +37,14 @@ of environmental challenges:
 
 The difficulty of such challenges are predefined by the GM.
 
-## 4.2. Unexpected encounters
+## 5.2. Unexpected encounters
 
 When characters are forced into combat without previously noticing the presence
 of enemies, a surprise encounter happens. Characters that appeared out of the
 blue roll for Dexterity and the ones that weren't expecting the encounter roll
 for Alertness. The GM decides how to choose the characters that were surprised.
 
-## 4.3. Defining combat order
+## 5.3. Defining combat order
 
 All characters involved in the combat should draw their weapons and roll for
 Agility. If there were an unexpected encounter, the characters that have already
@@ -52,12 +52,12 @@ rolled for Agility are not allowed to roll again. Surprised characters just
 compete between themselves for combat initiative in the end of the combat queue.
 In the event of a tie, the GM decides the combat order.
 
-## 4.4. Moving during combat
+## 5.4. Moving during combat
 
 Movement during combat is pretty straightforward. Roll for Motion and the
 obtained score represents the maximum distance that the character can move.
 
-## 4.5. Dealing direct damage
+## 5.5. Dealing direct damage
 
 Challenges that involve direct damage require rolls for Strength or Dexterity.
 In any case, the obtained score is subtracted by the Defense of the target
@@ -80,7 +80,7 @@ applied;
 
 * For 3 enemies or more, the Inferiority modifier should be applied.
 
-## 4.6. Using skills
+## 5.6. Using skills
 
 A skill requires a roll score of a certain attribute to account as its *Skill
 Power* (SP). An extensive list of the available skills can be found on the next
