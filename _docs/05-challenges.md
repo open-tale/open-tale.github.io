@@ -62,24 +62,32 @@ obtained score represents the maximum distance that the character can move.
 
 Challenges that involve direct damage require rolls for Strength or Dexterity.
 In any case, the obtained score is subtracted by the Defense of the target
-and the result causes direct damage. If the difference is smaller than 1, no
-damage is done.
+and the result causes direct damage. If the difference is smaller than 1, a
+complete defense happens and no damage is done.
 
 #### Damage regarding the range
 
 * For close-range attacks (swords, clubs, axes, daggers), the distance must not
 be greater than 1m;
 
-* For long-range attacks (with weapons or magic), there is a maximum distance
-allowed between the character and the target. Such distance is equal to the
-obtained score on the roll.
+* For long-range attacks (bows, slingshots, shurikens), there is a maximum
+distance allowed between the character and the target. Such distance is equal to
+the obtained score on the roll.
 
 #### Damage regarding the number of targets
 
 * When attacking 2 enemies at the same time, the Disadvantage modifier should be
 applied;
 
-* For 3 enemies or more, the Inferiority modifier should be applied.
+* For 3 enemies or more, the Inferiority modifier should be applied;
+
+* Close-range attacks can hit as many targets within the 1m range as intended;
+
+* Long-range attacks can only hit more than one character if they are perfectly
+aligned;
+
+* When attacking more than one enemy, the targets within the area of effect can
+be selected anyhow.
 
 ## 5.6. Healing with potions
 

@@ -61,9 +61,8 @@ final score of the roll. This (cummulative) effect only wears off upon moving.
 
 #### Sharp Shooter
 
-If the character and the enemies are *perfectly* aligned, attacking more than 1
-target at the same time can be done without applying the Disadvantage or
-Inferiority roll modifier.
+The character becomes able to attack more than 1 target at the same time without
+applying Disadvantage or Inferiority roll modifiers.
 
 #### True Sight
 
