@@ -50,6 +50,7 @@ Open Tale has the following attributes:
 |~|~
 | **Persuasion** | negotiate better prices, gather privileged information, tell a lie
 | **Intellect** | solve riddles, decypher codes, understand old scriptures
+| **Wisdom** | have impactful insights, read feelings of others, display common sense
 
 Each attribute varies from 1 to 9. To go from an attribute level *X* to the next
 (*X* + 1), the cost is *X* + 1 attribute points.
@@ -93,7 +94,7 @@ See below the formulas to define the base value of each quality:
 
 Perks are combative abilities that can be purchased at anytime outside combat
 during the campaign. Every character may choose **three** perks. An extensive
-list of perks can be found on the next chapter.
+list of perks can be found on the [chapter 4](04-perks).
 
 ### 2.1.5. Wealth
 
@@ -125,7 +126,7 @@ These are the steps to create a character within the Open Tale system:
 
 The table below displays the total cost of the initial attribute levels:
 
-| Attribute level | Total cost | Partial costs
+| Attribute level | Total cost | Detailed cost
 |:-:|:-:|:-:
 | 2 | 2 | 2
 | 3 | 5 | 2 + 3

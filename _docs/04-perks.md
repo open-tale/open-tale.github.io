@@ -1,11 +1,11 @@
 ---
-title: 3. Perks
+title: 4. Perks
 description: Extra abilities for gameplay
 ---
 
-# 3. Perks
+# 4. Perks
 
-## 3.1 Close-range combat
+## 4.1. Close-range combat
 
 #### Thirst for Blood
 
@@ -45,7 +45,7 @@ attacking that same target, apply the Superiority roll modifier.
 Upon completelly defending an attack, the character's Defense is increased by 1
 point until it gets hit or the combat ends.
 
-## 3.2 Long-range combat
+## 4.2. Long-range combat
 
 #### The Running Shooter
 

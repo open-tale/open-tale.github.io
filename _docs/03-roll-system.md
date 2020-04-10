@@ -1,9 +1,9 @@
 ---
-title: 4. Roll system
+title: 3. Roll system
 description: Let's talk about dice. When and how to use them?
 ---
 
-# 4. Roll system
+# 3. Roll system
 
 Every player roll in Open Tale is based on an attribute. But before rolling dice
 for an attribute, it's necessary to know its respective *power*:
@@ -59,6 +59,9 @@ that it's still possible to worsen the score in case of Advantage or improve
 the score in case of Disadvantage. These results can be interpreted as if the
 character got overconfident when on Advantage... or was able to focus and
 overcome a situation of Disadvantage.
+
+Some circumstances tell you exactly which modifier to apply, but the GM is free
+to say which modifier can be used throughout the game.
 
 ## 3.3. Explosions
 

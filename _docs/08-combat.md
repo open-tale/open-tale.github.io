@@ -1,9 +1,9 @@
 ---
-title: 7. Combat
+title: 8. Combat
 description: The basic flow for combat in Open Tale
 ---
 
-# 7. Combat
+# 8. Combat
 
 The combat flow is as follows:
 
@@ -17,7 +17,7 @@ order:
 * Spend a Heroic Badge;
 * Move their characters;
 * Switch weapons or shield;
-* Perform an attack or use a skill;
+* Perform an attack or use a skill or consume an item;
 * Schedule a wearable gear switch;
 * Defend.
 
