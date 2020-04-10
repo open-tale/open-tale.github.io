@@ -20,6 +20,35 @@ beginning of its next turn.
 * A character with a Frenzy mark loses one point of Defense, Willpower and
 Toughness.
 
+#### Bash
+
+* Roll for: Strength
+
+* The maximum range is equal to 1m.
+
+* If the SP is higher than the target's Toughness, the target gets marked with a
+Bash mark of level SP.
+
+* A character with a Bash mark rolls with the Disadivantage modifier.
+
+* The Bash mark wears off in the end of the target's next turn.
+
+#### Strong Kick
+
+* Roll for: Strength
+
+* The maximum range is equal to 1m
+
+* If the SP is higher than the target's Toughness, the target gets pushed by a
+distance equal to the SP subtracted by the target's Toughness, in meters.
+
+* The path of the push is defined by the kicker.
+
+* If a collision happens, the characters involved in the collision receive 1
+damage, each.
+
+* The maximum number of colliding characters is 2.
+
 #### Provoke
 
 * Roll for: Volition
@@ -36,6 +65,34 @@ character who casted Provoke on it.
 
 * A character with a Provoke mark gets Advantage on all of its rolls.
 
+#### Crippling Poison
+
+* Roll for: Dexterity
+
+* The maximum range is equal to 1m.
+
+* If the SP is higher than the target's Toughness, the target gets marked with a
+Crippled mark of level SP.
+
+* A character with a Crippled mark will have the Inferiority modifier applied to
+its next rolls for Motion.
+
+* The Crippled mark wears off in the end of the combat.
+
+#### Intoxicating Poison
+
+* Roll for: Dexterity
+
+* The maximum range is equal to 1m.
+
+* If the SP is higher than the target's Toughness, the target gets marked with a
+Intoxicated mark of level SP.
+
+* A character with an Intoxicated mark will receive 1 damage everytime its turn
+comes.
+
+* The Intoxicated mark wears off in the end of the combat.
+
 #### Magical Bolt
 
 * Roll for: Magicy
@@ -49,11 +106,39 @@ represents the damage done.
 
 * Roll for: Magicy
 
+* The maximum range is equal to Magicy, in meters.
+
+* The explosion hits a target and all characters around it, so **beware of
+friendly fire**.
+
+* For each victim, if the SP is higher than the victims's Defense, the
+difference between them represents the damage done.
+
+#### Magical Burst
+
+* Roll for: Magicy
+
 * If the SP is higher than the target's Defense, the difference between them
 represents the damage done.
 
 * The range is equal to one third of the SP, in meters. Every character within
 this range gets hit, so **beware of friendly fire**.
+
+#### Occult Force
+
+* Roll for: Magicy
+
+* The maximum range is equal to Magicy, in meters.
+
+* If the SP is higher than the target's Toughness, the target gets pushed by a
+distance equals to the SP subtracted by the target's Toughness.
+
+* The path of the push is defined by the caster.
+
+* If a collision happens, the characters involved in the collision receive 1
+damage, each.
+
+* The maximum number of colliding characters is 2.
 
 #### Heal
 
@@ -75,6 +160,8 @@ this range gets hit, so **beware of friendly fire**.
 
 * A character with a Bolster mark of level SP, when rolling for its highest
 attribute, cannot get a final score lower than SP.
+
+* It's not allowed for a character marked with Bolster to cast Bolster.
 
 #### Dispell
 

@@ -75,8 +75,10 @@ scores.
 
 ## 3.4. Expected scores
 
-Let's define the *expected score* of an attribute level as the integer
-approximation of the average score if we roll dice many many times.
+Let's define the *expected minimum score* of an attribute level as the integer
+approximation of minimum score that we should expect 50% of the times we roll
+for that attribute. For instance, if the expected minimum score of an attribute
+at a certain level is 7, then for 50% of the rolls we will get at least a 7.
 
 The table below shows the expected scores (*without* ⇒ *with* Heroism) for each
 attribute level and roll modifier.
@@ -95,3 +97,6 @@ attribute level and roll modifier.
 
 These numbers are useful to design appropriate challenges as a GM and also for
 the players to understand their own limitations and capabilities.
+
+As a rule of thumb, for an attribute level *X*, the expected minimum score is
+*X* + 5.
