@@ -52,12 +52,12 @@ Open Tale has the following attributes:
 | **Intellect** | solve riddles, decypher codes, understand old scriptures
 | **Wisdom** | have impactful insights, read feelings of others, display common sense
 
-Each attribute varies from 1 to 9. To go from an attribute level *X* to the next
-(*X* + 1), the cost is *X* + 1 attribute points.
+Each attribute varies from 1 to 9. To go from an attribute level to the next,
+say *X*, the cost is *X* attribute points.
 
 The character starts off with 20 attribute points and can recieve more by
-advancing on character levels. When going from a character level *Y* to the
-next (*Y* + 1), the character is awarded with *Y* + 1 attribute points.
+advancing on character levels. When going from a character level to the next,
+say *Y*, the character is awarded with *Y* + 1 attribute points.
 
 ### 2.1.3. Qualities
 
