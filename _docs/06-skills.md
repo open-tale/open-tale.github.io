@@ -5,9 +5,9 @@ description: Skills
 
 # 6. Skills
 
-#### Frenzy
+## 6.1. Strength-based skills
 
-* Roll for: Strength
+#### Frenzy
 
 * Hits all characters within a distance of 1m, so **beware of friendly fire**.
 
@@ -22,20 +22,16 @@ Toughness.
 
 #### Bash
 
-* Roll for: Strength
-
 * The maximum range is equal to 1m.
 
 * If the SP is higher than the target's Toughness, the target gets marked with a
 Bash mark of level SP.
 
-* A character with a Bash mark rolls with the Disadivantage modifier.
+* A character with a Bash mark rolls for Motion with the Disadivantage modifier.
 
 * The Bash mark wears off in the end of the target's next turn.
 
 #### Demoralize
-
-* Roll for: Strength
 
 * The maximum range is equal to 1m.
 
@@ -47,8 +43,6 @@ Demoralized mark of level SP.
 * The Demoralized mark wears off in the end of the target's next turn.
 
 #### Strong Kick
-
-* Roll for: Strength
 
 * The maximum range is equal to 1m
 
@@ -64,23 +58,21 @@ damage, each.
 
 #### Provoke
 
-* Roll for: Volition
-
-* The maximum range is equal to 5 + Volition, in meters.
+* The maximum range is equal to the Strength level, in meters.
 
 * If the SP is higher than the target's Willpower, the target gets marked with a
 Provoke mark of level SP.
-
-* The Provoke mark wears off in the end of the target's next turn.
 
 * A character with a Provoke mark isn't be able to target anyone else but the
 character who casted Provoke on it.
 
 * A character with a Provoke mark gets Advantage on all of its rolls.
 
-#### Crippling Poison
+* The Provoke mark wears off in the end of the target's next turn.
 
-* Roll for: Dexterity
+## 6.2. Dexterity-based skills
+
+#### Crippling Poison
 
 * The maximum range is equal to 1m.
 
@@ -94,8 +86,6 @@ its next rolls for Motion.
 
 #### Intoxicating Poison
 
-* Roll for: Dexterity
-
 * The maximum range is equal to 1m.
 
 * If the SP is higher than the target's Toughness, the target gets marked with a
@@ -106,9 +96,9 @@ each of its turns.
 
 * The Intoxicated mark wears off in the end of the combat.
 
-#### Magical Bolt
+## 6.3. Magicy-based skills
 
-* Roll for: Magicy
+#### Magical Bolt
 
 * The maximum range is equal to 5 + Magicy, in meters.
 
@@ -116,8 +106,6 @@ each of its turns.
 represents the damage done.
 
 #### Magical Explosion
-
-* Roll for: Magicy
 
 * The maximum range is equal to Magicy, in meters.
 
@@ -129,8 +117,6 @@ difference between them represents the damage done.
 
 #### Magical Burst
 
-* Roll for: Magicy
-
 * If the SP is higher than the target's Defense, the difference between them
 represents the damage done.
 
@@ -138,8 +124,6 @@ represents the damage done.
 this range gets hit, so **beware of friendly fire**.
 
 #### Occult Force
-
-* Roll for: Magicy
 
 * The maximum range is equal to the Magicy level, in meters.
 
@@ -155,15 +139,11 @@ damage, each.
 
 #### Heal
 
-* Roll for: Magicy
-
 * The maximum range is equal to the Magicy level, in meters.
 
 * Heals the target by one third of the SP.
 
 #### Bolster
-
-* Roll for: Magicy
 
 * The maximum range is equal to the Magicy level, in meters.
 
@@ -177,8 +157,6 @@ attribute, cannot get a final score lower than SP.
 * Characters marked with Bolster are not allowed to cast Bolster.
 
 #### Dispell
-
-* Roll for: Magicy
 
 * The maximum range is equal to the Magicy level, in meters.
 

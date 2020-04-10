@@ -44,7 +44,7 @@ Open Tale has the following attributes:
 | **Magicy** | aptitude for supportive and offensive magic
 | **Motion** | movement capability during combat, run faster, jump higher
 |~|~
-| **Vitality** | heal with potions, increase health points, resist toxicity
+| **Vitality** | enhance the efficiency of potions, increase health points, resist toxicity
 | **Alertness** | avoid surprise attacks, spot traps, notice mental manipulation
 | **Volition** | perform laborous tasks, display bravery, maintain sanity
 |~|~

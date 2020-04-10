@@ -45,7 +45,14 @@ attacking that same target, apply the Superiority roll modifier.
 Upon completelly defending an attack, the character's Defense is increased by 1
 point until it gets hit or the combat ends.
 
+#### Die Hard
+
+If the character's health is below one third of its maximum Health Points, add
+one third of its Strength to the character's Defense.
+
 ## 4.2. Long-range combat
+
+### 4.2.1. Dexterity perks
 
 #### The Running Shooter
 
@@ -69,3 +76,39 @@ applying Disadvantage or Inferiority roll modifiers.
 When attacking with a long-range weapon, the maximum range limit is increased by
 half of the character's Dexterity. If the character's Dexterity is odd, add 1 to
 it before dividing by 2.
+
+### 4.2.2. Magicy perks
+
+#### Urgent Healer
+
+When casting Heal on a target who's below one third of its total Health Points,
+apply the Superiority modifier.
+
+#### Source of Health
+
+When dice explosions happen on rolls to cast Heal, half of the total exploded
+score can be used to heal someone else within the Heal range. If the total
+exploded score is odd, add 1 to it before dividing by 2.
+
+This second healing does not count as a cast of Heal.
+
+#### Brave Medic
+
+When casting Heal on someone else from a distance of 1m, add one third of the
+character's Magicy to the amount healed.
+
+#### Dispellary
+
+When successfully dispelling a mark, the character becomes able to dispell
+another mark whose level is lesser than the first one's. This second mark
+dispell does not serve as a successfull mark dispell to trigger Dispellary.
+
+#### Dispell Mastery
+
+When dispelling a mark of level *X*, reaching a skill power of *X* - 1 is enough
+to succeed.
+
+#### Divine Bolster
+
+Characters under the effect of your Bolster marks are also blessed with the
+Superiority modifier on their rolls for their best attributes.

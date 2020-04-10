@@ -10,16 +10,6 @@ characters to overcome challenges. So, in order to know the contexts in which
 players can roll dice, we need to understand the types of challenges that Open
 Tale supports.
 
-These are the different types of challenges in Open Tale:
-
-* [Predefined challenges](#51-predefined-challenges)
-* [Unexpected encounters](#52-unexpected-encounters)
-* [Defining combat order](#53-defining-combat-order)
-* [Moving during combat](#54-moving-during-combat)
-* [Dealing direct damage](#55-dealing-direct-damage)
-* [Healing with potions](#56-healing-with-potions)
-* [Using skills](#57-using-skills)
-
 ## 5.1. Predefined challenges
 
 These are challenges in which characters don't interact with other characters.
@@ -88,10 +78,15 @@ aligned;
 * When attacking more than one enemy, the targets within the area of effect can
 be selected anyhow.
 
-## 5.6. Healing with potions
+## 5.6. Using potions
 
-Healing with potions requires a roll for Vitality. The amount healed is equal
-to one third of the final score.
+Using a potion requires roll for Vitality.
+
+* If the potion has the effect to remove some mark, the final roll score must be
+greater then the mark level for the potion to work.
+
+* If the potion heals Health Points, the amount healed is equal to one third of
+the final roll score.
 
 ## 5.7. Using skills
 
