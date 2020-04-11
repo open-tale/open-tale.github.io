@@ -93,8 +93,8 @@ See below the formulas to define the base value of each quality:
 ### 2.1.4. Perks
 
 Perks are combative abilities that can be purchased at anytime outside combat
-during the campaign. Every character may choose **three** perks. An extensive
-list of perks can be found on the chapter 6, but it's advised that newcomers
+during the campaign. Every character may have **three** perks. An extensive list
+of perks can be found on the chapter 6, but it's advised that newcomers
 shouldn't jump right into it just now.
 
 ### 2.1.5. Wealth
