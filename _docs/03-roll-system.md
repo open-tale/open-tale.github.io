@@ -93,6 +93,8 @@ again and add the next value to the final score. **Dice may explode
 indefinitely**, so players can have the chance to achieve surprisingly high
 scores.
 
+Explosion rolls do not count as new rolls for the attributes.
+
 ## 3.4. Expected scores
 
 Let's define the *expected minimum score* of an attribute level as the integer

@@ -1,16 +1,16 @@
 ---
-title: 5. Challenges
+title: 4. Challenges
 description: What are the available options to roll for?
 ---
 
-# 5. Challenges
+# 4. Challenges
 
 In a very broad sense, the purpose of dice rolls in Open Tale is for the
 characters to overcome challenges. So, in order to know the contexts in which
 players can roll dice, we need to understand the types of challenges that Open
 Tale supports.
 
-## 5.1. Predefined challenges
+## 4.1. Predefined challenges
 
 These are challenges in which characters don't interact with other characters.
 Instead, they interact with elements in the scenario. Here we have some examples
@@ -28,14 +28,14 @@ of environmental challenges:
 
 The difficulty of such challenges are predefined by the GM.
 
-## 5.2. Unexpected encounters
+## 4.2. Unexpected encounters
 
 When characters are forced into combat without previously noticing the presence
 of enemies, a surprise encounter happens. Characters that appeared out of the
 blue roll for Dexterity and the ones that weren't expecting the encounter roll
 for Alertness. The GM decides how to choose the characters that were surprised.
 
-## 5.3. Defining combat order
+## 4.3. Defining combat order
 
 All characters involved in the combat should draw their weapons and roll for
 Agility. If there were an unexpected encounter, the characters that have already
@@ -43,12 +43,12 @@ rolled for Agility are not allowed to roll again. Surprised characters just
 compete between themselves for combat initiative in the end of the combat queue.
 In the event of a tie, the GM decides the combat order.
 
-## 5.4. Moving during combat
+## 4.4. Moving during combat
 
 Movement during combat is pretty straightforward. Roll for Motion and the
 obtained score represents the maximum distance that the character can move.
 
-## 5.5. Dealing direct damage
+## 4.5. Dealing direct damage
 
 Challenges that involve direct damage require rolls for Strength or Dexterity.
 In any case, the obtained score is subtracted by the Defense of the target
@@ -78,7 +78,7 @@ aligned;
 * When attacking more than one enemy, the targets within the area of effect can
 be selected anyhow.
 
-## 5.6. Using potions
+## 4.6. Using potions
 
 Using a potion requires roll for Vitality.
 
@@ -88,7 +88,7 @@ greater then the mark level for the potion to work.
 * If the potion heals Health Points, the amount healed is equal to one third of
 the final roll score.
 
-## 5.7. Using skills
+## 4.7. Using skills
 
 A skill requires a roll score of a certain attribute to account as its *Skill
 Power* (SP). An extensive list of the available skills can be found on the next

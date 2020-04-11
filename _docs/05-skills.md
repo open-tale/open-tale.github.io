@@ -1,11 +1,11 @@
 ---
-title: 6. Skills
+title: 5. Skills
 description: Skills
 ---
 
-# 6. Skills
+# 5. Skills
 
-## 6.1. Strength-based skills
+## 5.1. Strength-based skills
 
 #### Frenzy
 
@@ -14,8 +14,8 @@ description: Skills
 * The damage on each victim is equal to the SP minus its Defense. Damage amounts
 below 1 have no effect.
 
-* The character receives a Frenzy mark of level SP, which lasts until the
-beginning of its next turn.
+* The caster receives a Frenzy mark of level SP, which lasts until the beginning
+of its next turn.
 
 * A character with a Frenzy mark loses one point of Defense, Willpower and
 Toughness.
@@ -70,7 +70,20 @@ character who casted Provoke on it.
 
 * The Provoke mark wears off in the end of the target's next turn.
 
-## 6.2. Dexterity-based skills
+## 5.2. Dexterity-based skills
+
+#### Careless Stab
+
+* The maximum range is equal to 1m.
+
+* If the SP is higher than the target's Defense, the target receives damage
+equal to the difference between the SP and the target's Defense with a bonus of
+one third of the caster's Dexterity.
+
+* The caster receives a Careless mark of level SP, which lasts until the
+beginning of its next turn.
+
+* A character with a Careless mark loses two points of Defense.
 
 #### Crippling Poison
 
@@ -96,7 +109,54 @@ each of its turns.
 
 * The Intoxicated mark wears off in the end of the combat.
 
-## 6.3. Magicy-based skills
+#### Wound Poison
+
+* The maximum range is equal to 1m.
+
+* If the SP is higher than the target's Toughness, the target gets marked with a
+Wounded mark of level SP.
+
+* A character with a Wounded mark has all healing effects cut by half. If the
+amout that would be healed is odd, add 1 to it before dividing by 2.
+
+* The Wounded mark wears off in the end of the combat.
+
+#### Distract
+
+* The maximum range is equal to 1m.
+
+* If the SP is higher than the target's Willpower, the target gets marked with a
+Distracted mark of level SP.
+
+* A character with a Distracted mark has 1 less point of Willpower.
+
+* The Distracted mark wears off in the beginning of the target's next turn.
+
+#### Expose Weakness
+
+* The maximum range is equal to 1m.
+
+* If the SP is higher than the target's Toughness, the target gets marked with
+an Exposed mark of level SP.
+
+* A character with an Exposed mark has 1 less point of Defense.
+
+* The Exposed mark wears off in the beginning of the target's next turn.
+
+#### Heavy Shot
+
+* The maximum distance is equal to 10 + Dexterity, in meters.
+
+* If the SP is higher than the target's Defense, the target receives damage
+equal to the difference between the SP and the target's Defense with a bonus of
+one third of the caster's Dexterity.
+
+* The caster receives a Heavy mark of level SP, which lasts until the end of its
+next turn.
+
+* A character with a Heavy mark is unable to move.
+
+## 5.3. Magicy-based skills
 
 #### Magical Bolt
 
@@ -105,7 +165,7 @@ each of its turns.
 * If the SP is higher than the target's Defense, the difference between them
 represents the damage done.
 
-#### Magical Explosion
+#### Magical Bomb
 
 * The maximum range is equal to Magicy, in meters.
 
