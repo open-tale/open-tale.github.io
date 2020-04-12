@@ -53,8 +53,11 @@ First of all, Open Tale is **completely** open source. The entire content of
 this website can be copied, modified and shared according to the [Apache License
 2.0][apache].
 
-About the system itself, Open Tale is reasonably simple. The way that characters
-evolve is inspired by [Ragnarok Online][ragnarok], with attributes and skills.
+Now about the system itself... the way that characters evolve is inspired by
+[Ragnarok Online][ragnarok], with skills and attributes that increase their
+potential. And when the character grows stronger, the player **feels stronger**
+with rolls that use bigger dice, and sometimes more dice!
+
 
 That being said, [let's get started!](02-characters)
 
