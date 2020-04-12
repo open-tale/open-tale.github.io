@@ -58,6 +58,9 @@ Now about the system itself... the way that characters evolve is inspired by
 potential. And when the character grows stronger, the player **feels stronger**
 with rolls that use bigger dice, and sometimes more dice!
 
+The very act of rolling dice itself is fun, because the player can have many
+options instead of simply "rolling a dX". This aspect will be covered on chapter
+3 and will manifest during gameplay.
 
 That being said, [let's get started!](02-characters)
 
