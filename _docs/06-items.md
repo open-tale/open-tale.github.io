@@ -16,6 +16,13 @@ combative moves. If the item is just too heavy, such as gold bars, the
 Disadvantage modifier should be applied on all rolls. But ultimately, these
 decisions are up to the GM.
 
+#### No ammo!
+
+Yes, that's right. Ammo can be a bothersome detail that distract players from
+the actual fun. What's the point of stopping in the middle of an adventure to go
+back to town to buy more arrows? In Open Tale, it's subtended that the character
+always carries enough ammunition.
+
 ## 6.1. Gears
 
 Since gears can alter the capabilities of characters when equiped, they deserve

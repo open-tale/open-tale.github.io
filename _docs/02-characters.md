@@ -31,7 +31,8 @@ The level of a character varies from 1 to 9. To level up, the player must spend
 3 experience points regardless of the current level of the character.
 
 Players are awarded experience points in the end of each session, usually at
-least 1 point.
+least 1 point. The benefits of leveling up are shown on the following
+subsessions.
 
 ### 2.1.2. Attributes
 
@@ -95,9 +96,18 @@ See below the formulas to define the base value of each quality:
 ### 2.1.4. Skills
 
 Skills are combative abilities that can be purchased at anytime outside combat
-during the campaign. Every character may have **six** skills. An extensive list
-of skills can be found on the chapter 5, but it's advised that newcomers
-shouldn't jump right into it just now.
+during the campaign.
+
+Every character starts with two skills to learn and, on every **even** level, a
+new skill can be learned. For instance, on level 1 the player chooses 2 skills
+for the character, then a new skill is learned on level 2, another one on level
+4 and so on and so forth.
+
+The table below shows the maximum number of skills that a character may have by
+level:
+
+| **Level** | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+| **Maximum number of skills** | 2 | 3 | 3 | 4 | 4 | 5 | 5 | 6 | 6
 
 ### 2.1.5. Wealth
 
