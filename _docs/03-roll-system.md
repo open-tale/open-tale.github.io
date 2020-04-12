@@ -10,8 +10,8 @@ for an attribute, it's necessary to know its respective *power*:
 
 **Attribute Power** = 6 + 2 * **Attribute Level**
 
-After calculating the attribute power, we choose two dice (not necessarily of
-different types) that sum up to to that quantity and roll them. The available
+After calculating the attribute power, we choose **two** dice (not necessarily
+of different types) that sum up to to that quantity and roll them. The available
 dice to choose are:
 
 * d4
