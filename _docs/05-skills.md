@@ -85,42 +85,6 @@ beginning of its next turn.
 
 * A character with a Careless mark loses two points of Defense.
 
-#### Crippling Poison
-
-* The maximum range is equal to 1m.
-
-* If the SP is higher than the target's Toughness, the target gets marked with a
-Crippled mark of level SP.
-
-* A character with a Crippled mark will have the Inferiority modifier applied to
-its next rolls for Motion.
-
-* The Crippled mark wears off in the end of the combat.
-
-#### Intoxicating Poison
-
-* The maximum range is equal to 1m.
-
-* If the SP is higher than the target's Toughness, the target gets marked with a
-Intoxicated mark of level SP.
-
-* A character with an Intoxicated mark will receive 1 damage in the beginning of
-each of its turns.
-
-* The Intoxicated mark wears off in the end of the combat.
-
-#### Wound Poison
-
-* The maximum range is equal to 1m.
-
-* If the SP is higher than the target's Toughness, the target gets marked with a
-Wounded mark of level SP.
-
-* A character with a Wounded mark has all healing effects cut by half. If the
-amout that would be healed is odd, add 1 to it before dividing by 2.
-
-* The Wounded mark wears off in the end of the combat.
-
 #### Distract
 
 * The maximum range is equal to 1m.
@@ -142,6 +106,42 @@ an Exposed mark of level SP.
 * A character with an Exposed mark has 1 less point of Defense.
 
 * The Exposed mark wears off in the beginning of the target's next turn.
+
+#### Crippling Poison
+
+* The maximum range is equal to 1m.
+
+* If the SP is higher than the target's Toughness, the target gets marked with a
+Crippled mark of level SP.
+
+* A character with a Crippled mark will have the Inferiority modifier applied to
+its next rolls for Motion.
+
+* The Crippled mark wears off in the end of the combat.
+
+#### Wound Poison
+
+* The maximum range is equal to 1m.
+
+* If the SP is higher than the target's Toughness, the target gets marked with a
+Wounded mark of level SP.
+
+* A character with a Wounded mark has all healing effects cut by half. If the
+amout that would be healed is odd, add 1 to it before dividing by 2.
+
+* The Wounded mark wears off in the end of the combat.
+
+#### Intoxicating Poison
+
+* The maximum range is equal to 5 + Dexterity, in meters.
+
+* If the SP is higher than the target's Toughness, the target gets marked with a
+Intoxicated mark of level SP.
+
+* A character with an Intoxicated mark will receive 1 damage in the beginning of
+each of its turns.
+
+* The Intoxicated mark wears off in the end of the combat.
 
 #### Heavy Shot
 
