@@ -5,7 +5,9 @@ description: Skills
 
 # 5. Skills
 
-## 5.1. Strength-based skills
+## 5.1. Active skills
+
+### 5.1.1. Strength-based skills
 
 #### Frenzy
 
@@ -70,7 +72,7 @@ character who casted Provoke on it.
 
 * The Provoke mark wears off in the end of the target's next turn.
 
-## 5.2. Dexterity-based skills
+### 5.1.2. Dexterity-based skills
 
 #### Careless Stab
 
@@ -145,7 +147,7 @@ each of its turns.
 
 #### Heavy Shot
 
-* The maximum distance is equal to 10 + Dexterity, in meters.
+* The maximum distance is equal to 5 + Dexterity, in meters.
 
 * If the SP is higher than the target's Defense, the target receives damage
 equal to the difference between the SP and the target's Defense with a bonus of
@@ -156,7 +158,7 @@ next turn.
 
 * A character with a Heavy mark is unable to move.
 
-## 5.3. Magicy-based skills
+### 5.1.3. Magicy-based skills
 
 #### Magical Bolt
 
@@ -199,7 +201,7 @@ damage, each.
 
 #### Heal
 
-* The maximum range is equal to the Magicy level, in meters.
+* The maximum range is equal to 5 + Magicy, in meters.
 
 * Heals the target by one third of the SP.
 
@@ -221,3 +223,152 @@ attribute, cannot get a final score lower than SP.
 * The maximum range is equal to the Magicy level, in meters.
 
 * Removes any mark of level below SP
+
+## 5.2. Passive skills
+
+### 5.2.1. Close-range combat
+
+#### Thirst for Blood
+
+If an attack made with a close-range weapon brings the target's HP down to 0,
+the player may choose another target. Upon choosing it, the character moves
+towards it and, if possible, attacks it with another close-range attack.
+
+The path towards the new target must be the shortest known one. The score for
+the movement range is calculated with a new roll for Motion and the damage dealt
+to the new target is equal to the excess of damage dealt to the previous one,
+piercing the new target's Defense.
+
+#### Dash Attack
+
+When performing a close-range attack on a target right after moving from a cell
+that is not adjacent to that target to a cell that is  adjacent to that target,
+the AP gets a bonus of 1 point.
+
+Dash Attacks can hit multiple targets if the restrictions are satisfied.
+
+#### Side Slash
+
+When performing a close-range attack on a target right after moving from a cell
+that is adjacent to that target to another cell that is also adjacent to that
+target, the AP gets a bonus of 1 point.
+
+Side Slashes can hit multiple targets if the restrictions are satisfied.
+
+#### Vengeful Scar
+
+On the first turn after getting hit by a long-range attack, the character rolls
+for Motion with a Superiority modifier if moving towards the attacker through
+the shortest known path.
+
+#### Confident Blow
+
+On the first turn after completely defending an attack or a skill from a target,
+when attacking that same target, apply the Superiority roll modifier.
+
+#### Made of Stone
+
+Upon completelly defending an attack or a skill, the character's Defense is
+increased by 1 until the beginning of its next turn.
+
+#### Defensive Nerves
+
+Upon completelly defending an attack or a skill, the character is healed by 1
+point. If the agressor rolled with an Advantage modifier, the healing amount
+is 2, instead. If the agressor rolled with a Superiority modifier, the healing
+amount is 3, instead.
+
+#### Die Hard
+
+If the character's health is below one quarter of its maximum Health Points, add
+one third of its Strength to the character's Defense.
+
+### 5.2.2. Long-range combat
+
+#### The Running Shooter
+
+The character can move and attack with a long-range weapon at the same time. To
+do so, roll for Motion and then roll for Dexterity. Choose the character's
+destination, the cell from which the character will shoot and the target.
+
+#### Deadly Tower
+
+If the character hasn't moved since the last attack with a long-range weapon,
+when rolling for Dexterity to perfor an attack with a long-range weapon, add 1
+extra point to the AP. This (cummulative) effect only wears off upon moving.
+
+#### Sharp Shooter
+
+The character becomes able to attack more than 1 target at the same time without
+applying Disadvantage or Inferiority roll modifiers.
+
+#### True Sight
+
+When attacking with a long-range weapon, the maximum range limit is increased by
+half of the character's Dexterity. If the character's Dexterity is odd, add 1 to
+it before dividing by 2.
+
+#### Power Strafe
+
+When attacking with a long-range weapon, each die explosion can be used to deal
+extra damage to other character within the attack range and who weren't hit yet
+on this turn.
+
+#### Trickery Casts
+
+When rolling for Motion **after** rolling for Magicy in the same turn, apply
+the Superiority modifier.
+
+#### Bouncing Energy
+
+When dice explode on Magical Bolts, extra damage can be applied to enemies
+other than the initial target. The extra damage is equal to the total explosion
+score and the extra number of targets is equal to the number of explosions.
+
+Such damage pierces Defense, but the affected enemies must be within the Magical
+Bolt range (from the caster).
+
+#### Bigger Bombs
+
+Magical Bombs can have radii of 2m instead of 1m, if intended by the caster.
+
+#### Hazard
+
+After casting Magical Burst and calculating the explosion range, the damage is
+increased by the number of victims within the area of effect.
+
+#### Burst Mastery
+
+The character becomes able to limit the radius of Magical Burst as intended.
+
+#### Urgent Healer
+
+When casting Heal on a target who's below one third of its total Health Points,
+apply the Superiority modifier.
+
+#### Source of Health
+
+For each explosion that happens when the character casts Heal, a character that
+hasn't been healed yet on this turn can be healed by half of the exploded score.
+If the exploded score is odd, add 1 to it before dividing by 2.
+
+#### Brave Medic
+
+When casting Heal on someone else from a distance of 1m, add one third of the
+character's Magicy to the amount healed.
+
+#### Dispellary
+
+When successfully dispelling a mark, the character becomes able to dispell
+another mark whose level is lesser than the first one's. This second mark
+dispell does not trigger Dispellary.
+
+#### Dispell Mastery
+
+When dispelling a mark of level *X*, reaching a skill power of *X* - 1 is enough
+to succeed.
+
+#### Divine Bolster
+
+Characters under the effect of your Bolster marks are also blessed with one
+extra point of Defense, Toughness and Willpower.

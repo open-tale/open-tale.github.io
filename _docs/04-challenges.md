@@ -51,9 +51,10 @@ obtained score represents the maximum distance that the character can move.
 ## 4.5. Dealing direct damage
 
 Challenges that involve direct damage require rolls for Strength or Dexterity.
-In any case, the obtained score is subtracted by the Defense of the target
-and the result causes direct damage. If the difference is smaller than 1, a
-complete defense happens and no damage is done.
+The obtained score is called *Attack Power* (AP), which is subtracted by the
+Defense of the target and the result may cause direct damage to the target. If
+the difference is smaller than 1, a complete defense happens and no damage is
+done.
 
 #### Damage regarding the range
 
@@ -61,7 +62,7 @@ complete defense happens and no damage is done.
 be greater than 1m;
 
 * For long-range attacks (bows, slingshots, shurikens), the maximum distance
-allowed between the character and the target is 10 + Dexterity, in meters.
+allowed between the character and the target is 5 + Dexterity, in meters.
 
 #### Damage regarding the number of targets
 

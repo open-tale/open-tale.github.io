@@ -38,15 +38,26 @@ interest regarding the damage that can be dealt. Or if a character is trying to
 pick the lock of a treasure chest, the GM needs to define the minimum score to
 open it.
 
-It is recommended for the GM to lead the story in a way that every roll
-matters. In other words, failing at challenges should not result in empty
-outcomes. "So I try to open it again...", how fun is that? Instead, try to lead
-the party to unexpected situations as in "You hear the lock crack open, but you
-feel the rise of an intimidating presence behind you" or "You hear a strange
-sound coming from the lock and now you're unable to manouver it because it's
-completely stuck". When success is rewarded and failure has no trade-off, it
-feels dull and mechanical.
+It is recommended for the GM to lead the story in a way that every roll matters.
+In other words, failing at challenges should not result in empty outcomes. "So I
+try to open it again...", how fun is that? Instead, try to lead the party to
+unexpected situations as in "You hear the lock crack open, but you feel the rise
+of an intimidating presence behind you" or "You hear a strange sound coming from
+the lock and now you're unable to manouver it because it's completely stuck".
+When success is rewarded and failure has no trade-off, it feels dull and
+mechanical.
+
+## Why Open Tale?
+
+First of all, Open Tale is **completely** open source. The entire content of
+this website can be copied, modified and shared according to the [Apache License
+2.0][apache].
+
+About the system itself, Open Tale is reasonably simple. The way that characters
+evolve is inspired by [Ragnarok Online][ragnarok], with attributes and skills.
 
 That being said, [let's get started!](02-characters)
 
 [openlegend]: https://openlegendrpg.com
+[apache]: http://www.apache.org/licenses/LICENSE-2.0
+[ragnarok]: http://playragnarok.com/

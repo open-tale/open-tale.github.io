@@ -19,7 +19,7 @@ traits:
 * [Level](#211-level)
 * [Attributes](#212-attributes)
 * [Qualities](#213-qualities)
-* [Perks](#214-perks)
+* [Skills](#214-Skills)
 * [Wealth](#215-wealth)
 
 ### 2.1.1. Level
@@ -39,8 +39,8 @@ Open Tale has the following attributes:
 
 | Attribute | Exemplary effects
 |:-:|:-:
-| **Strength** | swing medium and long weapons, parry attacks, wear heavy armor, carry items
-| **Dexterity** | use short/ranged weapons, dodge/deflect attacks, pick locks or pockets, wear leather armor
+| **Strength** | swing medium and long weapons, parry attacks, carry items
+| **Dexterity** | use short/ranged weapons, dodge/deflect attacks, pick locks or pockets
 | **Magicy** | aptitude for supportive and offensive magic
 | **Motion** | movement capability during combat, run faster, jump higher
 |~|~
@@ -90,11 +90,11 @@ See below the formulas to define the base value of each quality:
 | **Toughness** | 5 + Volition + Vitality
 | **Willpower** | 5 + Volition + Alertness
 
-### 2.1.4. Perks
+### 2.1.4. Skills
 
-Perks are combative abilities that can be purchased at anytime outside combat
-during the campaign. Every character may have **three** perks. An extensive list
-of perks can be found on the chapter 6, but it's advised that newcomers
+Skills are combative abilities that can be purchased at anytime outside combat
+during the campaign. Every character may have **six** skills. An extensive list
+of skills can be found on the chapter 5, but it's advised that newcomers
 shouldn't jump right into it just now.
 
 ### 2.1.5. Wealth
@@ -122,8 +122,11 @@ These are the steps to create a character within the Open Tale system:
 
 1. Spend any of the first 20 attribute points;
 2. Compute the character's qualities;
-3. Choose the character's perks, if intended;
+3. Choose the character's skills, if intended;
 4. Set the initial wealth to 1.
+
+**Note**: For Magicy based characters, it's fundamental to acquire at least one
+skill in the very beginning.
 
 The table below displays the total cost of the initial attribute levels:
 

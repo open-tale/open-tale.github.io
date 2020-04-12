@@ -1,9 +1,9 @@
 ---
-title: 8. Combat
+title: 7. Combat
 description: The basic flow for combat in Open Tale
 ---
 
-# 8. Combat
+# 7. Combat
 
 The combat flow is as follows:
 

@@ -1,9 +1,9 @@
 ---
-title: 7. Items
+title: 6. Items
 description: What are the available options to roll for?
 ---
 
-# 7. Items
+# 6. Items
 
 There are three kinds of items in Open Tale, gears, consumables and objects. The
 distinction between them is fairly simple: gears can be equiped, consumables
@@ -16,15 +16,26 @@ combative moves. If the item is just too heavy, such as gold bars, the
 Disadvantage modifier should be applied on all rolls. But ultimately, these
 decisions are up to the GM.
 
-## 7.1. Gears
+## 6.1. Gears
 
 Since gears can alter the capabilities of characters when equiped, they deserve
 special attention. First, gears may have descriptions indicating changes on the
 character's attributes, attack, defense, range limit etc when equiped. Second,
-as in most RPGs, there are weapons and wearable gears. Let's see how weapons
+as in most RPGs, there are wearable gears and weapons. Let's see how weapons
 work.
 
-### 7.1.1. Weapons
+### 6.1.1. Wearable gears
+
+There are three kinds of wearable gears in Open Tale: silk clothes, leather and
+heavy armors.
+
+To determine which kinds of wearable gears a character may use, pick the highest
+attribute among Strength, Dexterity and Magicy. If the highest one is Magicy,
+the character is limited to silk clothes. If it's Dexterity, the character can
+also wear leather armor. If it's Strength, the character can wear any of the
+three kinds of armor.
+
+### 6.1.2. Weapons
 
 Weapons have two basic properties: range and size. They determine whether the
 weapon can be used for dual wielding or not, if two hands are required to use it

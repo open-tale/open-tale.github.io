@@ -54,6 +54,9 @@ the second value and ignoring the first one
 * Superiority: pick the die with the smallest value and roll it again, keeping
 the highest value
 
+If there is a tie between dice scores, the player is free to choose any of them
+to roll again.
+
 Notice that Disadvantage and Advantage are not absolute modifiers, in the sense
 that it's still possible to worsen the score in case of Advantage or improve
 the score in case of Disadvantage. These results can be interpreted as if the
@@ -110,12 +113,12 @@ attribute level and roll modifier.
 | **1** | 4 ⇒ 7 | 5 ⇒ 7 | **6 ⇒ 9** | 8 ⇒ 11 | 8 ⇒ 11 |
 | **2** | 5 ⇒ 8 | 6 ⇒ 8 | **7 ⇒ 10** | 8 ⇒ 12 | 9 ⇒ 12 |
 | **3** | 6 ⇒ 9 | 7 ⇒ 9 | **8 ⇒ 11** | 9 ⇒ 13 | 10 ⇒ 13 |
-| **4** | 6 ⇒ 9 | 7 ⇒ 10 | **9 ⇒ 12** | 10 ⇒ 14 | 11 ⇒ 14 |
-| **5** | 7 ⇒ 10 | 8 ⇒ 11 | **10 ⇒ 13** | 11 ⇒ 15 | 12 ⇒ 15 |
+| **4** | 7 ⇒ 10 | 8 ⇒ 10 | **9 ⇒ 12** | 10 ⇒ 14 | 11 ⇒ 14 |
+| **5** | 7 ⇒ 10 | 9 ⇒ 11 | **10 ⇒ 13** | 11 ⇒ 15 | 12 ⇒ 16 |
 | **6** | 8 ⇒ 11 | 9 ⇒ 12 | **11 ⇒ 14** | 12 ⇒ 16 | 13 ⇒ 17 |
 | **7** | 9 ⇒ 12 | 10 ⇒ 13 | **12 ⇒ 15** | 14 ⇒ 17 | 15 ⇒ 18 |
 | **8** | 9 ⇒ 13 | 11 ⇒ 14 | **13 ⇒ 16** | 15 ⇒ 18 | 16 ⇒ 19 |
-| **9** | 10 ⇒ 13 | 11 ⇒ 14 | **14 ⇒ 17** | 16 ⇒ 19 | 17 ⇒ 20 |
+| **9** | 10 ⇒ 13 | 12 ⇒ 14 | **14 ⇒ 17** | 16 ⇒ 19 | 17 ⇒ 20 |
 
 These numbers are useful to design appropriate challenges as a GM and also for
 the players to understand their own limitations and capabilities.
