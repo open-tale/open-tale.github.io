@@ -5,6 +5,8 @@ description: What is Open Tale really about?
 
 # 1. Introduction
 
+## 1.1. What is Open Tale?
+
 Open Tale is not a game per se... it's a system to build stories with. What this
 means is that the GM and the players are free to compose their own atmosphere.
 For instance: when players are creating their characters, they can go in as much
@@ -47,20 +49,32 @@ the lock and now you're unable to manouver it because it's completely stuck".
 When success is rewarded and failure has no trade-off, it feels dull and
 mechanical.
 
-## Why Open Tale?
+## 1.2. Why Open Tale?
+
+#### Free, open source and collaborative
 
 First of all, Open Tale is **completely** open source. The entire content of
 this website can be copied, modified and shared according to the [Apache License
 2.0][apache].
 
+The fact that it's open source makes it easier for the community to build it
+together. Discussions and different points of view are enriching if we aim high,
+try different ideas and express how it felt.
+
+#### Grow stronger, **feel** stronger
+
 Now about the system itself... the way that characters evolve is inspired by
 [Ragnarok Online][ragnarok], with skills and attributes that increase their
 potential. When a character grows stronger, the player **feels stronger**, being
-able to roll bigger dice, and sometimes more dice!
+able to roll bigger dice, and sometimes more dice! The very act of rolling dice
+itself is fun, because the player can have many options instead of simply
+"rolling a dX". This aspect will be covered in more details on chapter 3.
 
-The very act of rolling dice itself is fun, because the player can have many
-options instead of simply "rolling a dX". This aspect will be covered in more
-details on chapter 3.
+#### A raceless and classless system
+
+You're free to build a character the way you want. Just plan out the attributes
+and the skills that will compose your character. The more Open Tale matures, the
+more possibilities will be available.
 
 That being said, [let's get started!](02-characters)
 

@@ -1,6 +1,6 @@
 ---
 title: 5. Skills
-description: Skills
+description: Another layer to customize your characters
 ---
 
 # 5. Skills
