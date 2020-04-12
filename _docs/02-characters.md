@@ -53,11 +53,13 @@ Open Tale has the following attributes:
 | **Wisdom** | have impactful insights, read feelings of others, display common sense
 
 Each attribute varies from 1 to 9. To go from an attribute level to the next,
-say *X*, the cost is *X* attribute points.
+say *X*, the cost is *X* attribute points. For instance, to go from an attribute
+level 6 to 7, the cost is 7 attribute points.
 
 The character starts off with 20 attribute points and can recieve more by
-advancing on character levels. When going from a character level to the next,
-say *Y*, the character is awarded with *Y* + 1 attribute points.
+advancing on character levels. When a character advances in level, he is awarded
+with his new level plus 1 attribute points. For instance, going from level 3 to
+level 4 grants the character 5 attribute points (4 + 1).
 
 ### 2.1.3. Qualities
 

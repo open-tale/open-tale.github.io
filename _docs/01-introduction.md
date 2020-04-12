@@ -55,12 +55,12 @@ this website can be copied, modified and shared according to the [Apache License
 
 Now about the system itself... the way that characters evolve is inspired by
 [Ragnarok Online][ragnarok], with skills and attributes that increase their
-potential. And when the character grows stronger, the player **feels stronger**
-with rolls that use bigger dice, and sometimes more dice!
+potential. When a character grows stronger, the player **feels stronger**, being
+able to roll bigger dice, and sometimes more dice!
 
 The very act of rolling dice itself is fun, because the player can have many
-options instead of simply "rolling a dX". This aspect will be covered on chapter
-3 and will manifest during gameplay.
+options instead of simply "rolling a dX". This aspect will be covered in more
+details on chapter 3.
 
 That being said, [let's get started!](02-characters)
 

@@ -48,5 +48,6 @@ and the attribute to roll for when attacking with the weapon:
 | Short | Short | Yes | No | Dexterity | Dagger, Knife
 | Long | ~ | No | Yes | Dexterity | Bow
 
-When dual wielding weapons of different sizes, the player should roll for the
-smallest attribute between his character's Strength and Dexterity.
+When dual wielding weapons that are based on different attributes (e.g.: a sword
+and a dagger), the player should roll for the smallest attribute between the
+character's Strength and Dexterity.
