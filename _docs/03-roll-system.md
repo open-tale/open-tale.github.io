@@ -1,28 +1,24 @@
 ---
 title: 3. Roll system
-description: Let's talk about dice. When and how to use them?
+description: Let's talk about dice. How to use them?
 ---
 
 # 3. Roll system
 
-Every player roll in Open Tale is based on an attribute. But before rolling dice
-for an attribute, it's necessary to know its respective *power*:
+Every player roll in Open Tale is based on an attribute. These are the dice that
+are used for each attribute level:
 
-**Attribute Power** = 6 + 2 * **Attribute Level**
-
-After calculating the attribute power, we choose **two** dice (not necessarily
-of different types) that sum up to to that quantity and roll them. The available
-dice to choose are:
-
-* d4
-* d6
-* d8
-* d10
-* d12
-
-For example: A character is going perform an attack with a long sword and his
-strength is at level 5. His strength power is 6 + 2 * 5 = 16. Thus, the player
-has three options to roll: 1d12+1d4, 1d10+1d6 or 2d8.
+| Attribute level | Dice | Average score
+|:-:|:-:|:-:
+| 1 | 2d4 | 5
+| 2 | d4+d6 | 6
+| 3 | 2d6 | 7
+| 4 | d6+d8 | 8
+| 5 | 2d8 | 9
+| 6 | d8+d10 | 10
+| 7 | 2d10 | 11
+| 8 | d10+d12 | 12
+| 9 | 2d12 | 13
 
 ## 3.1. Heroism
 
@@ -54,8 +50,8 @@ the second value and ignoring the first one
 * Superiority: pick the die with the smallest value and roll it again, keeping
 the highest value
 
-If there is a tie between dice scores, the player is free to choose any of them
-to roll again.
+If there is a tie between dice scores, re-roll the biggest die (d4 < d6 < d8 <
+d10 < d12).
 
 Notice that Disadvantage and Advantage are not absolute modifiers, in the sense
 that it's still possible to worsen the score in case of Advantage or improve
@@ -86,42 +82,20 @@ Disadvantage. The resulting modifier is Advantage because 2 - 1 = 1.
 This is just a general guideline. Ultimately, the GM has the final word
 regarding which modifier should be applied (or no modifier at all).
 
-## 3.3. Explosions
+#### Critical rolls
 
-After applying the roll modifier, if any, the player can gain extra scores from
-dice explosions.
+A critical roll happens when two (or more) dice score higher than their average
+scores. So for instance, when rolling a d4+d6, a critical roll would require
+the d4 to score at least 3 and the d6 to score at least 4. The table below shows
+more examples:
 
-An explosion happen when a die hits its highest value. The player can roll it
-again and add the next value to the final score. **Dice may explode
-indefinitely**, so players can have the chance to achieve surprisingly high
-scores.
+| Roll | Respective dice results | Critical?
+|:-:|:-:|:-:
+| d4+d6 | 2 and **4** | No
+| d4+d6 | **4** and **5** | Yes
+| d4+d6+d8 | 2, 2 and **8** | No
+| d4+d8+d10 | **4**, **7** and **9** | Yes
+| d4+2d12 | **3**, **9** and 2 | Yes
 
-Explosion rolls do not count as new rolls for the attributes.
-
-## 3.4. Expected scores
-
-Let's define the *expected minimum score* of an attribute level as the integer
-approximation of minimum score that we should expect 50% of the times we roll
-for that attribute. For instance, if the expected minimum score of an attribute
-at a certain level is 7, then for 50% of the rolls we will get at least a 7.
-
-The table below shows the expected scores (*without* ⇒ *with* Heroism) for each
-attribute level and roll modifier.
-
-| Level | Inferiority | Disadvantage | Neural | Advantage | Superiority
-|:-:|:-:|:-:|:-:|:-:|:-:
-| **1** | 4 ⇒ 7 | 5 ⇒ 7 | **6 ⇒ 9** | 8 ⇒ 11 | 8 ⇒ 11 |
-| **2** | 5 ⇒ 8 | 6 ⇒ 8 | **7 ⇒ 10** | 8 ⇒ 12 | 9 ⇒ 12 |
-| **3** | 6 ⇒ 9 | 7 ⇒ 9 | **8 ⇒ 11** | 9 ⇒ 13 | 10 ⇒ 13 |
-| **4** | 7 ⇒ 10 | 8 ⇒ 10 | **9 ⇒ 12** | 10 ⇒ 14 | 11 ⇒ 14 |
-| **5** | 7 ⇒ 10 | 9 ⇒ 11 | **10 ⇒ 13** | 11 ⇒ 15 | 12 ⇒ 16 |
-| **6** | 8 ⇒ 11 | 9 ⇒ 12 | **11 ⇒ 14** | 12 ⇒ 16 | 13 ⇒ 17 |
-| **7** | 9 ⇒ 12 | 10 ⇒ 13 | **12 ⇒ 15** | 14 ⇒ 17 | 15 ⇒ 18 |
-| **8** | 9 ⇒ 13 | 11 ⇒ 14 | **13 ⇒ 16** | 15 ⇒ 18 | 16 ⇒ 19 |
-| **9** | 10 ⇒ 13 | 12 ⇒ 14 | **14 ⇒ 17** | 16 ⇒ 19 | 17 ⇒ 20 |
-
-These numbers are useful to design appropriate challenges as a GM and also for
-the players to understand their own limitations and capabilities.
-
-As a rule of thumb, for an attribute level *X*, the expected minimum score is
-*X* + 5.
+Critical rolls are an important aspect of the system because they may trigger
+certain skill conditions.

@@ -321,12 +321,9 @@ the Superiority modifier.
 
 #### Bouncing Energy
 
-When dice explode on Magical Bolts, extra damage can be applied to enemies
-other than the initial target. The extra damage is equal to the total explosion
-score and the extra number of targets is equal to the number of explosions.
-
-Such damage pierces Defense, but the affected enemies must be within the Magical
-Bolt range (from the caster).
+When a critical roll happens on a Magical Bolt, another enemy can be chosen to
+be targeted as well. The new enemy must be within the Magical Bolt range (from
+the first target).
 
 #### Bigger Bombs
 
@@ -348,9 +345,9 @@ apply the Superiority modifier.
 
 #### Source of Health
 
-For each explosion that happens when the character casts Heal, a character that
-hasn't been healed yet on this turn can be healed by half of the exploded score.
-If the exploded score is odd, add 1 to it before dividing by 2.
+When a critical roll happens on a Heal, another character can be chosen to be
+targeted by the Heal. The new target must be within the Heal range (from the
+caster).
 
 #### Brave Medic
 
