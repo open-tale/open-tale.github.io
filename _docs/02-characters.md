@@ -49,7 +49,7 @@ Open Tale has the following attributes:
 | **Alertness** | avoid surprise attacks, spot traps, notice mental manipulation
 | **Volition** | perform laborous tasks, display bravery, maintain sanity
 |~|~
-| **Persuasion** | negotiate better prices, gather privileged information, tell a lie
+| **Charisma** | negotiate better prices, gather privileged information, tell a lie
 | **Intellect** | solve riddles, decypher codes, understand old scriptures
 | **Wisdom** | have impactful insights, read feelings of others, display common sense
 
@@ -80,7 +80,7 @@ deflecting/dodging attacks or simply absorbing impact with gear;
 * **Toughness**: Physical constitution, equilibrium and resilience.
 Protects from poison, illnesses and disabilities.
 
-* **Willpower**: Ability to preserve a healthy psyche, protecting from
+* **Resolve**: Ability to preserve a healthy psyche, protecting from
 external subtle influences.
 
 See below the formulas to define the base value of each quality:
@@ -91,7 +91,7 @@ See below the formulas to define the base value of each quality:
 | **Capacity** | 10 + Level + Strength
 | **Defense** | 5 + Strength + Dexterity
 | **Toughness** | 5 + Volition + Vitality
-| **Willpower** | 5 + Volition + Alertness
+| **Resolve** | 5 + Volition + Alertness
 
 ### 2.1.4. Skills
 

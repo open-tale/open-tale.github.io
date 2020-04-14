@@ -14,12 +14,13 @@ The combat flow is as follows:
 On each turn of the step 3, the players can do the following actions in any
 order:
 
-* Spend a Heroic Badge;
-* Move their characters;
-* Switch weapons or shield;
-* Perform an attack or use a skill or consume an item;
-* Schedule a wearable gear switch;
-* Defend.
+* Spend a Heroic Badge
+* Move their characters
+* Switch weapons or shield
+* Consume an item
+* Perform an attack or use a skill
+* Schedule a wearable gear switch
+* Defend
 
 Unless explicitly told otherwise by a perk or a skill, it's forbidden to do the
 same action twice in a single turn.

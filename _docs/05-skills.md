@@ -30,7 +30,7 @@ below 1 have no effect.
 * The caster receives a Frenzy mark of level SP, which lasts until the beginning
 of its next turn.
 
-* A character with a Frenzy mark loses one point of Defense, Willpower and
+* A character with a Frenzy mark loses one point of Defense, Resolve and
 Toughness.
 
 #### Bash
@@ -48,7 +48,7 @@ Bash mark of level SP.
 
 * The maximum range is equal to 1m.
 
-* If the SP is higher than the target's Willpower, the target gets marked with a
+* If the SP is higher than the target's Resolve, the target gets marked with a
 Demoralized mark of level SP.
 
 * A character marked with Demoralized is unable to have critical rolls.
@@ -73,7 +73,7 @@ damage, each.
 
 * The maximum range is equal to the Strength level, in meters.
 
-* If the SP is higher than the target's Willpower, the target gets marked with a
+* If the SP is higher than the target's Resolve, the target gets marked with a
 Provoke mark of level SP.
 
 * A character with a Provoke mark isn't be able to target anyone else but the
@@ -102,10 +102,11 @@ beginning of its next turn.
 
 * The maximum range is equal to 1m.
 
-* If the SP is higher than the target's Willpower, the target gets marked with a
+* If the SP is higher than the target's Resolve, the target gets marked with a
 Distracted mark of level SP.
 
-* A character with a Distracted mark has 1 less point of Willpower.
+* A character with a Distracted mark of level *X* has *X*/4 (rounded up) less
+point of Resolve.
 
 * The Distracted mark wears off in the beginning of the target's next turn.
 
@@ -116,7 +117,8 @@ Distracted mark of level SP.
 * If the SP is higher than the target's Toughness, the target gets marked with
 an Exposed mark of level SP.
 
-* A character with an Exposed mark has 1 less point of Defense.
+* A character with an Exposed mark of level *X* has *X*/4 (rounded up) less
+points of Defense.
 
 * The Exposed mark wears off in the beginning of the target's next turn.
 
@@ -130,7 +132,7 @@ Crippled mark of level SP.
 * A character with a Crippled mark will have the Inferiority modifier applied to
 its next rolls for Motion.
 
-* The Crippled mark wears off in the end of the combat.
+* The Crippled mark wears off in the end of the target's next turn.
 
 #### Wound Poison
 
@@ -139,8 +141,8 @@ its next rolls for Motion.
 * If the SP is higher than the target's Toughness, the target gets marked with a
 Wounded mark of level SP.
 
-* A character with a Wounded mark has all healing effects cut by half. If the
-amout that would be healed is odd, add 1 to it before dividing by 2.
+* A character with a Wounded mark has all healing effects cut by half (rounded
+down).
 
 * The Wounded mark wears off in the end of the combat.
 
@@ -379,4 +381,4 @@ to succeed.
 #### Divine Bolster
 
 Characters under the effect of your Bolster marks are also blessed with one
-extra point of Defense, Toughness and Willpower.
+extra point of Defense, Toughness and Resolve.
