@@ -66,9 +66,7 @@ try different ideas and express how it felt.
 Now about the system itself... the way that characters evolve is inspired by
 [Ragnarok Online][ragnarok], with skills and attributes that increase their
 potential. When a character grows stronger, the player **feels stronger**, being
-able to roll bigger dice, and sometimes more dice! The very act of rolling dice
-itself is fun, because the player can have many options instead of simply
-"rolling a dX". This aspect will be covered in more details on chapter 3.
+able to roll bigger dice, and sometimes more dice!
 
 #### A raceless and classless system
 
