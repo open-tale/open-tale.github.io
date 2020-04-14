@@ -1,9 +1,20 @@
 ---
 title: 5. Skills
-description: Another layer to customize your characters
+description: Another layer of character customization
 ---
 
 # 5. Skills
+
+Open Tale has *active* and *passive* skills. An active skills is triggered by
+the player and requires a roll for a certain attribute to account as its *Skill
+Power* (SP). Passive skills are triggered by in-game circumstances in order to
+enhance something that the character already does.
+
+For organization purposes, this chapter is divided in two subsections which
+contain exhaustive lists of each type of skills:
+
+1. [Active skills](#51-active-skills)
+2. [Passive skills](#52-passive-skills)
 
 ## 5.1. Active skills
 
@@ -40,7 +51,7 @@ Bash mark of level SP.
 * If the SP is higher than the target's Willpower, the target gets marked with a
 Demoralized mark of level SP.
 
-* A character marked with Demoralized is unable to have explosions on rolls.
+* A character marked with Demoralized is unable to have critical rolls.
 
 * The Demoralized mark wears off in the end of the target's next turn.
 
@@ -308,11 +319,11 @@ When attacking with a long-range weapon, the maximum range limit is increased by
 half of the character's Dexterity. If the character's Dexterity is odd, add 1 to
 it before dividing by 2.
 
-#### Power Strafe
+#### Double Strafe
 
-When attacking with a long-range weapon, each die explosion can be used to deal
-extra damage to other character within the attack range and who weren't hit yet
-on this turn.
+When attacking with a long-range weapon, critical rolls trigger a second attack
+with the same AP as the first one and that can be used to target **another**
+enemy within the attack range.
 
 #### Trickery Casts
 
