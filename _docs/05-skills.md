@@ -126,6 +126,8 @@ points of Defense.
 
 * The maximum range is equal to the Dexterity level, in meters.
 
+* If the range is 1m, add 1 point to the SP.
+
 * If the SP is higher than the target's Toughness, the target gets marked with a
 Crippled mark of level SP.
 
@@ -137,6 +139,8 @@ its next rolls for Motion.
 #### Intoxicating Poison
 
 * The maximum range is equal to the Dexterity level, in meters.
+
+* If the range is 1m, add 1 point to the SP.
 
 * If the SP is higher than the target's Toughness, the target gets marked with
 an Intoxicated mark of level SP and receives 1 point of damage.

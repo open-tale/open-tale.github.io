@@ -68,6 +68,18 @@ Now about the system itself... the way that characters evolve is inspired by
 potential. When a character grows stronger, the player **feels stronger**, being
 able to roll bigger dice, and sometimes more dice!
 
+#### Quick resolve
+
+Events in Open Tale resolve very quickly, which makes it a lot easier for the
+players and the GM to keep track of what's happening. This aspect of the system
+mitigates cases in which we forget to add this or subtract that due to something
+that happened ages ago.
+
+Conflicts that resolve quickly also bring another element into gameplay:
+**dynamism**. No good choice is good forever... and the same applies to bad
+choices. This encourages the players to stay tunned and always reassess their
+actions.
+
 #### A raceless and classless system
 
 You're free to build a character the way you want. Just plan out the attributes
