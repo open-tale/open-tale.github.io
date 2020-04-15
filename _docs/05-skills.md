@@ -124,7 +124,7 @@ points of Defense.
 
 #### Crippling Poison
 
-* The maximum range is equal to 1m.
+* The maximum range is equal to the Dexterity level, in meters.
 
 * If the SP is higher than the target's Toughness, the target gets marked with a
 Crippled mark of level SP.
@@ -134,29 +134,15 @@ its next rolls for Motion.
 
 * The Crippled mark wears off in the end of the target's next turn.
 
-#### Wound Poison
-
-* The maximum range is equal to 1m.
-
-* If the SP is higher than the target's Toughness, the target gets marked with a
-Wounded mark of level SP.
-
-* A character with a Wounded mark has all healing effects cut by half (rounded
-down).
-
-* The Wounded mark wears off in the end of the combat.
-
 #### Intoxicating Poison
 
-* The maximum range is equal to 5 + Dexterity, in meters.
+* The maximum range is equal to the Dexterity level, in meters.
 
-* If the SP is higher than the target's Toughness, the target gets marked with a
-Intoxicated mark of level SP.
+* If the SP is higher than the target's Toughness, the target gets marked with
+an Intoxicated mark of level SP and receives 1 point of damage.
 
-* A character with an Intoxicated mark will receive 1 damage in the beginning of
-each of its turns.
-
-* The Intoxicated mark wears off in the end of the combat.
+* A character with an Intoxicated mark of level SP will receive SP - Toughness
+damage in the end of its next turn, removing the mark.
 
 #### Heavy Shot
 
@@ -282,7 +268,7 @@ when attacking that same target, apply the Superiority roll modifier.
 #### Made of Stone
 
 Upon completelly defending an attack or a skill, the character's Defense is
-increased by 1 until the beginning of its next turn.
+increased by 1 until it moves or gets hit.
 
 #### Defensive Nerves
 
@@ -377,6 +363,11 @@ dispell does not trigger Dispellary.
 
 When dispelling a mark of level *X*, reaching a skill power of *X* - 1 is enough
 to succeed.
+
+#### Skilled Dispell
+
+Upon successfully dispelling a mark, the excess of SP can be used to heal or to
+deal direct damage to the target.
 
 #### Divine Bolster
 

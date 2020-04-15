@@ -15,25 +15,32 @@ On each turn of the step 3, the players can do the following actions in any
 order:
 
 * Spend a Heroic Badge
+* Overcome an impairment
 * Move their characters
 * Switch weapons or shield
 * Consume an item
-* Perform an attack or use a skill
-* Schedule a wearable gear switch
-* Defend
+* Perform an attack, use a skill or assist an ally¹
+* Schedule a wearable gear switch²
+* Defend³
 
 Unless explicitly told otherwise by a perk or a skill, it's forbidden to do the
 same action twice in a single turn.
 
-Switching wearable gears during combat cannot be done in a single turn. If
-character *A* does so, the other gear is removed from the inventory, the current
-gear is unequipped and sent to the inventory and the turn ends. In the beginning
-of the next character *A*'s turn, the new gear is equipped. Only one wearable
-gear switch is allowed per turn.
+¹Assisting an ally can only be accomplished by standing within 1m from the
+target. On the target's next roll, if your attribute level is higher than the
+target's attribute level, the Superiority modifier should be applied. Apply the
+Advantage modifier otherwise.
 
-Upon using the Defend action, the turn ends and the character's Defense is
-increased by 1 point until its next turn. The Defend action can only be used in
-a turn if:
+²Switching wearable gears during combat cannot be done in a single turn and
+requires the character to schedule a wearable gear switch. If character *A* does
+so, the other gear is removed from the inventory, the current gear is unequipped
+and sent to the inventory and the turn ends. In the beginning of the next
+character *A*'s turn, the new gear is equipped. Only one wearable gear switch is
+allowed per turn.
+
+³Upon using the Defend action, the turn ends and the character's Defense,
+Toughness and Resolve are increased by 1 point until its next turn. The Defend
+action can only be used in a turn if:
 
 1. No attack has been made and no skill has been used;
 2. The character hasn't schedule a wearable gear switch.

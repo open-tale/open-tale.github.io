@@ -89,7 +89,17 @@ greater then the mark level for the potion to work.
 * If the potion heals Health Points, the amount healed is equal to one third of
 the final roll score.
 
-## 4.7. Using skills
+## 4.7. Overcoming impairments
+
+Overcoming an impairment means to attempt to remove a mark and requires a roll
+for Volition.
+
+* If the final roll score is below the mark level, the character's next roll
+will be subject to the Disadvantage modifier;
+
+* Otherwise, the mark is removed.
+
+## 4.8. Using skills
 
 A skill requires a roll score of a certain attribute to account as its *Skill
 Power* (SP). An extensive list of the available skills can be found on the next
