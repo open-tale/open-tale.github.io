@@ -84,10 +84,10 @@ regarding which modifier should be applied (or no modifier at all).
 
 #### Critical rolls
 
-A critical roll happens when two (or more) dice score higher than their average
-scores. So for instance, when rolling a d4+d6, a critical roll would require
-the d4 to score at least 3 and the d6 to score at least 4. The table below shows
-more examples:
+A critical roll happens when two (or more) dice score higher than their
+individual average scores. So for instance, when rolling a d4+d6, a critical
+roll would require the d4 to score at least 3 **and** the d6 to score at least
+4. The table below shows more examples:
 
 | Roll | Respective dice results | Critical?
 |:-:|:-:|:-:
