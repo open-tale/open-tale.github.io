@@ -35,7 +35,7 @@ moments. There are four **mutually exclusive** roll modifiers in Open Tale:
 *Inferiority*, *Disadvantage*, *Advantage* and *Superiority*.
 
 Inferiority and Disadvantage are nerfs applied on the die with the highest
-value. Advantage and superiority are buffs applied on the die with the smallest
+value. Advantage and Superiority are buffs applied on the die with the smallest
 value. Their mechanics are as follows:
 
 * Inferiority: pick the die with the highest value and roll it again, keeping
