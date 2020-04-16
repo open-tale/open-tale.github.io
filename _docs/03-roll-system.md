@@ -82,7 +82,7 @@ Disadvantage. The resulting modifier is Advantage because 2 - 1 = 1.
 This is just a general guideline. Ultimately, the GM has the final word
 regarding which modifier should be applied (or no modifier at all).
 
-#### Critical rolls
+## 3.3. Critical rolls
 
 A critical roll happens when two (or more) dice score higher than their
 individual average scores. So for instance, when rolling a d4+d6, a critical

@@ -54,7 +54,8 @@ Challenges that involve direct damage require rolls for Strength or Dexterity.
 The obtained score is called *Attack Power* (AP), which is subtracted by the
 Defense of the target and the result may cause direct damage to the target. If
 the difference is smaller than 1, a complete defense happens and no damage is
-done.
+done. It's important to notice that the AP may be influenced by the usage of
+certain equipment, like daggers, swords or bows.
 
 #### Damage regarding the range
 
@@ -99,8 +100,14 @@ will be subject to the Disadvantage modifier;
 
 * Otherwise, the mark is removed.
 
-## 4.8. Using skills
+## 4.8. Using an active skill
 
-A skill requires a roll score of a certain attribute to account as its *Skill
-Power* (SP). An extensive list of the available skills can be found on the next
-chapter.
+The potence of an active skill is represented by its *Skill Power* (SP), which
+depends on the attribute to roll for. Such attribute can be one of the
+followings: Strength, Dexterity or Magicy.
+
+If the skill requires a roll for Strength or Dexterity, the SP is defined by the
+AP, just like when dealing direct damage. If, instead, the skill requires a roll
+for Magicy, the SP is defined by the *Magical Power* (MP), which is equal to the
+final score of the roll and can be changed by some equipment, like a wand or a
+staff.
