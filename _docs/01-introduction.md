@@ -61,13 +61,6 @@ The fact that it's open source makes it easier for the community to build it
 together. Discussions and different points of view are enriching if we aim high,
 try different ideas and express how it felt.
 
-#### Grow stronger, **feel** stronger
-
-Now about the system itself... the way that characters evolve is inspired by
-[Ragnarok Online][ragnarok], with skills and attributes that increase their
-potential. When a character grows stronger, the player **feels stronger**, being
-able to roll bigger dice, and sometimes more dice!
-
 #### Quick resolve
 
 Events in Open Tale resolve very quickly, which makes it a lot easier for the
@@ -82,9 +75,11 @@ actions.
 
 #### A raceless and classless system
 
-You're free to build a character the way you want. Just plan out the attributes
-and the skills that will compose your character. The more Open Tale matures, the
-more possibilities will be available.
+You're free to build a character the way you want. Character customization in
+Open Tale is inspired by [Ragnarok Online][ragnarok], with skills and attributes
+that increase their potential. Therefore you just need to plan out the
+attributes and the skills that will compose your character. The more Open Tale
+matures, the more possibilities will be available.
 
 That being said, [let's get started!](02-characters)
 

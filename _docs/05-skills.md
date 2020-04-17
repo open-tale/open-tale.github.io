@@ -131,8 +131,8 @@ points of Defense.
 * If the SP is higher than the target's Toughness, the target gets marked with a
 Crippled mark of level SP.
 
-* A character with a Crippled mark will have the Inferiority modifier applied to
-its next rolls for Motion.
+* A character with a Crippled mark will have the Disadvantage modifier applied
+to its next rolls for Motion.
 
 * The Crippled mark wears off in the end of the target's next turn.
 
@@ -261,13 +261,13 @@ Side Slashes can hit multiple targets if the restrictions are satisfied.
 #### Vengeful Scar
 
 On the first turn after getting hit by a long-range attack, the character rolls
-for Motion with a Superiority modifier if moving towards the attacker through
-the shortest known path.
+for Motion with a Advantage modifier if moving towards the attacker through the
+shortest known path.
 
 #### Confident Blow
 
 On the first turn after completely defending an attack or a skill from a target,
-when attacking that same target, apply the Superiority roll modifier.
+when attacking that same target, apply the Advantage roll modifier.
 
 #### Made of Stone
 
@@ -278,8 +278,7 @@ increased by 1 until it moves or gets hit.
 
 Upon completelly defending an attack or a skill, the character is healed by 1
 point. If the agressor rolled with an Advantage modifier, the healing amount
-is 2, instead. If the agressor rolled with a Superiority modifier, the healing
-amount is 3, instead.
+is 2, instead.
 
 #### Die Hard
 
@@ -303,7 +302,7 @@ extra point to the AP. This (cummulative) effect only wears off upon moving.
 #### Sharp Shooter
 
 The character becomes able to attack more than 1 target at the same time without
-applying Disadvantage or Inferiority roll modifiers.
+applying Disadvantage roll modifier.
 
 #### True Sight
 
@@ -320,7 +319,7 @@ enemy within the attack range.
 #### Trickery Casts
 
 When rolling for Motion **after** rolling for Magicy in the same turn, apply
-the Superiority modifier.
+the Advantage modifier.
 
 #### Bouncing Energy
 
@@ -344,7 +343,7 @@ The character becomes able to limit the radius of Magical Burst as intended.
 #### Urgent Healer
 
 When casting Heal on a target who's below one third of its total Health Points,
-apply the Superiority modifier.
+apply the Advantage modifier.
 
 #### Source of Health
 

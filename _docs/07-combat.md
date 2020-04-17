@@ -27,9 +27,7 @@ Unless explicitly told otherwise by a perk or a skill, it's forbidden to do the
 same action twice in a single turn.
 
 ¹Assisting an ally can only be accomplished by standing within 1m from the
-target. On the target's next roll, if your attribute level is higher than the
-target's attribute level, the Superiority modifier should be applied. Apply the
-Advantage modifier otherwise.
+target. On the target's next roll, apply the Advantage modifier.
 
 ²Switching wearable gears during combat cannot be done in a single turn and
 requires the character to schedule a wearable gear switch. If character *A* does

@@ -26,7 +26,9 @@ of environmental challenges:
 | Gather clues from an old book | Intellect
 | Stay awake on watch | Volition
 
-The difficulty of such challenges are predefined by the GM.
+A predefined challenge has an intrinsic *Challenge Rating* (CR), which is
+designed by the GM. To succeed in a challenge like this the obtained score must
+be greater than the CR.
 
 ## 4.2. Unexpected encounters
 
@@ -70,7 +72,10 @@ allowed between the character and the target is 5 + Dexterity, in meters.
 * When attacking 2 enemies at the same time, the Disadvantage modifier should be
 applied;
 
-* For 3 enemies or more, the Inferiority modifier should be applied;
+* For 3 enemies or more, besides applying the Disadvantage modifier, decrease 1
+from the AP for each targeted enemy that exceeds 2. For instance, when attacking
+5 enemies at the same time, apply the Disadvantage modifier **and** decrease the
+AP by 3 (5 - 2);
 
 * Close-range attacks can hit as many targets within the 1m range as intended;
 
