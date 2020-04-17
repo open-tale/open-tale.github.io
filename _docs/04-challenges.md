@@ -30,12 +30,26 @@ A predefined challenge has an intrinsic *Challenge Rating* (CR), which is
 designed by the GM. To succeed in a challenge like this the obtained score must
 be greater than the CR.
 
+The table below describes the difficulty for a few CRs:
+
+| CR | Difficulty
+|:-:|:-:
+| 6- | Piece of cake
+| 7 | Easy task, even for the unskilled
+| 8 | Requires some effort from the unskilled
+| ~ | ~
+| 12 | Requires some effort for an average skilled character
+| ~ | ~
+| 16 | Requires some effort for the most skilled characters
+| 17 | Somewhat hard for the most skilled characters
+| 18+ | Legendary difficulty
+
 ## 4.2. Unexpected encounters
 
 When characters are forced into combat without previously noticing the presence
 of enemies, a surprise encounter happens. Characters that appeared out of the
 blue roll for Dexterity and the ones that weren't expecting the encounter roll
-for Alertness. The GM decides how to choose the characters that were surprised.
+for Perception. The GM decides how to choose the characters that were surprised.
 
 ## 4.3. Defining combat order
 

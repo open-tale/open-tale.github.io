@@ -46,12 +46,12 @@ Open Tale has the following attributes:
 | **Motion** | movement capability during combat, run faster, jump higher
 |~|~
 | **Vitality** | enhance the efficiency of potions, increase health points, resist toxicity
-| **Alertness** | avoid surprise attacks, spot traps, notice mental manipulation
+| **Perception** | avoid surprise attacks, spot traps, notice mental manipulation
 | **Volition** | perform laborous tasks, display bravery, maintain sanity
 |~|~
-| **Charisma** | negotiate better prices, gather privileged information, tell a lie
+| **Persuasion** | negotiate better prices, gather privileged information, tell a lie
 | **Intellect** | solve riddles, decypher codes, understand old scriptures
-| **Wisdom** | have impactful insights, read feelings of others, display common sense
+| **Wisdom** | have impactful insights, display common sense
 
 Each attribute varies from 1 to 9. To go from an attribute level to the next,
 say *X*, the cost is *X* attribute points. For instance, to go from an attribute
@@ -91,7 +91,7 @@ See below the formulas to define the base value of each quality:
 | **Capacity** | 10 + Level + Strength
 | **Defense** | 5 + Strength + Dexterity
 | **Toughness** | 5 + Volition + Vitality
-| **Resolve** | 5 + Volition + Alertness
+| **Resolve** | 5 + Volition + Perception
 
 ### 2.1.4. Skills
 
