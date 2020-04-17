@@ -12,9 +12,8 @@ Tale supports.
 
 ## 4.1. Predefined challenges
 
-These are challenges in which characters don't interact with other characters.
-Instead, they interact with elements in the scenario. Here we have some examples
-of environmental challenges:
+These are usual challenges that happen out of combat. Here we have some examples
+of predefined challenges:
 
 | Challenge | Roll for
 |:-:|:-:
@@ -27,22 +26,20 @@ of environmental challenges:
 | Stay awake on watch | Volition
 
 A predefined challenge has an intrinsic *Challenge Rating* (CR), which is
-designed by the GM. To succeed in a challenge like this the obtained score must
-be greater than the CR.
+designed by the GM (hence the name "predefined"). To succeed in a challenge like
+this the obtained score must be greater than the CR.
 
 The table below describes the difficulty for a few CRs:
 
 | CR | Difficulty
 |:-:|:-:
 | 6- | Piece of cake
-| 7 | Easy task, even for the unskilled
-| 8 | Requires some effort from the unskilled
-| ~ | ~
-| 12 | Requires some effort for an average skilled character
-| ~ | ~
-| 16 | Requires some effort for the most skilled characters
-| 17 | Somewhat hard for the most skilled characters
-| 18+ | Legendary difficulty
+| 8 | Everyday
+| 10 | Easy
+| 12 | Challenging
+| 14 | Tough
+| 16 | Formidable
+| 18+ | Legendary
 
 ## 4.2. Unexpected encounters
 

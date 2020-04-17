@@ -49,7 +49,7 @@ Open Tale has the following attributes:
 | **Perception** | avoid surprise attacks, spot traps, notice mental manipulation
 | **Volition** | perform laborous tasks, display bravery, maintain sanity
 |~|~
-| **Persuasion** | negotiate better prices, gather privileged information, tell a lie
+| **Persuasion** | negotiate better prices, intimidate characters, tell a lie
 | **Intellect** | solve riddles, decypher codes, understand old scriptures
 | **Wisdom** | have impactful insights, display common sense
 
