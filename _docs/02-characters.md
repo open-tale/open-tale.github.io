@@ -47,7 +47,7 @@ Open Tale has the following attributes:
 |~|~
 | **Vitality** | enhance the efficiency of potions, increase health points, resist toxicity
 | **Perception** | avoid surprise attacks, spot traps, notice mental manipulation
-| **Volition** | perform laborous tasks, display bravery, maintain sanity
+| **Volition** | perform laborous tasks, display bravery, resist pain, maintain sanity
 |~|~
 | **Persuasion** | negotiate better prices, intimidate characters, tell a lie
 | **Intellect** | solve riddles, decypher codes, understand old scriptures
