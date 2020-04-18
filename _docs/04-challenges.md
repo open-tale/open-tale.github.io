@@ -10,10 +10,10 @@ characters to overcome challenges. So, in order to know the contexts in which
 players can roll dice, we need to understand the types of challenges that Open
 Tale supports.
 
-## 4.1. Predefined challenges
+## 4.1. Common challenges
 
-These are usual challenges that happen out of combat. Here we have some examples
-of predefined challenges:
+These are usual challenges that happen out of combat, like the classic "Roll for
+perception!". Here we have some examples of common challenges:
 
 | Challenge | Roll for
 |:-:|:-:
@@ -25,21 +25,47 @@ of predefined challenges:
 | Gather clues from an old book | Intellect
 | Stay awake on watch | Volition
 
-A predefined challenge has an intrinsic *Challenge Rating* (CR), which is
-designed by the GM (hence the name "predefined"). To succeed in a challenge like
-this the obtained score must be greater than the CR.
+Open Tale offers two ways of creating such challenges: designing *Difficulty
+Classes* (DC) or using degrees of success. The former is more similar to the way
+that Dungeons and Dragons and Path Finder implement it and the later is inspired
+by Dungeon World. The GM is free to pick any of these on the fly.
 
-The table below describes the difficulty for a few CRs:
+#### Designing Difficulty Classes
 
-| CR | Difficulty
+Generically speaking, a DC is a number to be overcome with a roll score. So, in
+order to succeed in a challenge like this, the obtained score must be greater
+than the DC.
+
+The table below describes the difficulty for a few DCs:
+
+| DC | Difficulty
 |:-:|:-:
 | 6- | Piece of cake
 | 8 | Everyday
-| 10 | Easy
-| 12 | Challenging
-| 14 | Tough
-| 16 | Formidable
+| 10 | Somewhat easy
+| 12 | A little bit challenging
+| 14 | Tough endeavor
+| 16 | Very hard
 | 18+ | Legendary
+
+#### Using degrees of success
+
+It's also possible to let the story unfold by rewarding or punishing the player
+with different degrees of success rather than with a solid **yes** or **no**
+outcome. In this case, the roll score itself is the reference for the degree of
+success.
+
+There are five suggested outcomes for a challenge of this kind: *failure*,
+*success with a twist*, *clean success*, *extraordinary success*. The table
+below shows the score ranges for each of them and a brief and open explanation
+of what they mean:
+
+| Score range | Outcome | Explanation
+|:-:|:-:|:-:
+| 3 - 10 | failure | the player doesn't get the reward and is punished instead
+| 11 - 13 | success with a twist | the player is rewarded but something bad happens
+| 14 - 16 | clean success | the player is rewarded and doesn't have to worry afterwards
+| 17 - 21 | extraordinary success | the player is rewarded with more than expected
 
 ## 4.2. Unexpected encounters
 
