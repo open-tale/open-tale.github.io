@@ -53,13 +53,16 @@ mechanical.
 
 #### Free, open source and collaborative
 
-First of all, Open Tale is **completely** open source. The entire content of
-this website can be copied, modified and shared according to the [Apache License
-2.0][apache].
+First of all, Open Tale is **completely** open source. *But why a software
+license instead of a gaming license?* you might ask. Good question! The reason
+is that the content of Open Tale can be understood as *code*: more specifically,
+[markdown files on Github][docs]. So anyone can literally download it, modify
+and publish a new version, a right guaranteed by the [Apache License 2.0]
+[apache].
 
-The fact that it's open source makes it easier for the community to build it
-together. Discussions and different points of view are enriching if we aim high,
-try different ideas and express how it felt.
+Also, the fact that it's open source makes it easier for the community to build
+it together. Discussions and different points of view are enriching if we aim
+high, try different ideas and express how it felt.
 
 #### Quick resolve
 
@@ -88,5 +91,6 @@ will be available.
 That being said, [let's get started!](02-characters)
 
 [openlegend]: https://openlegendrpg.com
+[docs]: https://github.com/open-tale/open-tale.github.io/tree/master/_docs
 [apache]: http://www.apache.org/licenses/LICENSE-2.0
 [ragnarok]: http://playragnarok.com/

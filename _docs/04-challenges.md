@@ -18,6 +18,7 @@ perception!". Here we have some examples of common challenges:
 | Challenge | Roll for
 |:-:|:-:
 | Pick a lock | Dexterity
+| Sneak and listen to a dialogue | Dexterity
 | Break a door | Strength
 | Move a rigid lever | Strength
 | Slide below a closing gate | Motion
@@ -26,7 +27,8 @@ perception!". Here we have some examples of common challenges:
 | Gather clues from an old book | Intellect
 | Recall facts about the story | Intellect
 | Stay awake on watch | Volition
-| Infer the plot line | Wisdom
+| Anticipate some facts about the story | Wisdom
+| Stop a fight between two characters | Wisdom
 
 Open Tale offers two ways of creating such challenges: designing *Difficulty
 Classes* (DC) or using degrees of success. The former is more similar to the way
