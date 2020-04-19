@@ -22,7 +22,7 @@ contain exhaustive lists of each type of skills:
 
 #### Frenzy
 
-* Hits all characters within a distance of 1m, so **beware of friendly fire**.
+* Hits all characters within a distance of 1 du, so **beware of friendly fire**.
 
 * The damage on each victim is equal to the SP minus its Defense. Damage amounts
 below 1 have no effect.
@@ -44,7 +44,7 @@ its next turn.
 
 #### Bash
 
-* The maximum range is equal to 1m.
+* The maximum range is equal to 1 du.
 
 * If the SP is higher than the target's Toughness, the target gets marked with a
 Bash mark of level SP.
@@ -55,7 +55,7 @@ Bash mark of level SP.
 
 #### Demoralize
 
-* The maximum range is equal to 1m.
+* The maximum range is equal to 1 du.
 
 * If the SP is higher than the target's Resolve, the target gets marked with a
 Demoralized mark of level SP.
@@ -67,10 +67,10 @@ scores decreased by *X* - Resolve points.
 
 #### Strong Kick
 
-* The maximum range is equal to 1m
+* The maximum range is equal to 1 du.
 
 * If the SP is higher than the target's Toughness, the target gets pushed by a
-distance equal to the SP subtracted by the target's Toughness, in meters.
+distance equal to the SP subtracted by the target's Toughness, in du.
 
 * The path of the push is defined by the kicker.
 
@@ -81,7 +81,7 @@ damage, each.
 
 #### Provoke
 
-* The maximum range is equal to the Strength level, in meters.
+* The maximum range is equal to the Strength level, in du.
 
 * If the SP is higher than the target's Resolve, the target gets marked with a
 Provoke mark of level SP.
@@ -105,7 +105,7 @@ up) points of Defense.
 
 #### Careless Stab
 
-* The maximum range is equal to 1m.
+* The maximum range is equal to 1 du.
 
 * If the SP is higher than the target's Defense, the target receives damage
 equal to the difference between the SP and the target's Defense with a bonus of
@@ -127,7 +127,7 @@ next turn.
 
 #### Expose Weakness
 
-* The maximum range is equal to 1m.
+* The maximum range is equal to 1 du.
 
 * If the SP is higher than the target's Toughness, the target gets marked with
 an Exposed mark of level SP.
@@ -139,7 +139,7 @@ points of Defense.
 
 #### Distractive Shadow
 
-* The maximum range is equal to 1m.
+* The maximum range is equal to 1 du.
 
 * If the SP is higher than the target's Resolve, the target gets marked with a
 Distracted mark of level SP. Otherwise, the caster receives an Exposed mark of
@@ -153,9 +153,9 @@ completely missing the offensive attempt.
 
 #### Crippling Poison
 
-* The maximum range is equal to the Dexterity level, in meters.
+* The maximum range is equal to the Dexterity level, in du.
 
-* If the range is 1m, add 1 point to the SP.
+* If the range is 1 du, add 1 point to the SP.
 
 * If the SP is higher than the target's Toughness, the target gets marked with a
 Crippled mark of level SP.
@@ -167,9 +167,9 @@ to its next rolls for Motion.
 
 #### Intoxicating Poison
 
-* The maximum range is equal to the Dexterity level, in meters.
+* The maximum range is equal to the Dexterity level, in du.
 
-* If the range is 1m, add 1 point to the SP.
+* If the range is 1 du, add 1 point to the SP.
 
 * If the SP is higher than the target's Toughness, the target gets marked with
 an Intoxicated mark of level SP and receives 1 point of damage.
@@ -179,7 +179,7 @@ damage in the end of its next turn, removing the mark.
 
 #### Heavy Shot
 
-* The maximum distance is equal to 5 + Dexterity, in meters.
+* The maximum distance is equal to 5 + Dexterity, in du.
 
 * If the SP is higher than the target's Defense, the target receives damage
 equal to the difference between the SP and the target's Defense with a bonus of
@@ -194,14 +194,14 @@ next turn.
 
 #### Magical Bolt
 
-* The maximum range is equal to 5 + Magicy, in meters.
+* The maximum range is equal to 5 + Magicy, in du.
 
 * If the SP is higher than the target's Defense, the difference between them
 represents the damage done.
 
 #### Magical Bomb
 
-* The maximum range is equal to Magicy, in meters.
+* The maximum range is equal to Magicy, in du.
 
 * The explosion hits a target and all characters around it, so **beware of
 friendly fire**.
@@ -214,8 +214,8 @@ difference between them represents the damage done.
 * If the SP is higher than the target's Defense, the difference between them
 represents the damage done.
 
-* The range is equal to one third of the SP, in meters. Every character within
-this range gets hit, so **beware of friendly fire**.
+* The range is equal to one third of the SP, in du. Every character within this
+range gets hit, so **beware of friendly fire**.
 
 #### Magnify
 
@@ -228,7 +228,7 @@ its next turn.
 
 #### Occult Force
 
-* The maximum range is equal to the Magicy level, in meters.
+* The maximum range is equal to the Magicy level, in du.
 
 * If the SP is higher than the target's Toughness, the target gets pushed by a
 distance equals to the SP subtracted by the target's Toughness.
@@ -242,13 +242,13 @@ damage, each.
 
 #### Heal
 
-* The maximum range is equal to 5 + Magicy, in meters.
+* The maximum range is equal to 5 + Magicy, in du.
 
 * Heals the target by one third of the SP.
 
 #### Bolster
 
-* The maximum range is equal to the Magicy level, in meters.
+* The maximum range is equal to the Magicy level, in du.
 
 * The target receives a Bolster mark of level SP.
 
@@ -261,7 +261,7 @@ attribute, cannot get a final score lower than SP.
 
 #### Dispell
 
-* The maximum range is equal to the Magicy level, in meters.
+* The maximum range is equal to the Magicy level, in du.
 
 * Removes any mark of level below SP
 
@@ -360,7 +360,7 @@ the first target).
 
 #### Bigger Bombs
 
-Magical Bombs can have radii of 2m instead of 1m, if intended by the caster.
+Magical Bombs can have radii of 2 du instead of 1 du, if intended by the caster.
 
 #### Hazard
 
@@ -384,7 +384,7 @@ the caster).
 
 #### Brave Medic
 
-When casting Heal on someone else from a distance of 1m, add one third of the
+When casting Heal on someone else from a distance of 1 du, add one third of the
 character's Magicy to the amount healed.
 
 #### Dispellary

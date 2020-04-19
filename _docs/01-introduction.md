@@ -64,6 +64,16 @@ Also, the fact that it's open source makes it easier for the community to build
 it together. Discussions and different points of view are enriching if we aim
 high, try different ideas and express how it felt.
 
+#### Unified distance unit system
+
+Although using *feet* as the standard unit for distances is very common, not
+everyone is familiar with it. Thus, instead of using *ft* for distances, Open
+Tale uses *du*, which means "distance unit".
+
+The distance of 1 du can be understood as one square or one hexagon on crafted
+maps. Therefore, 1 du can also be converted to 5 feet or approximately 1.5
+meters.
+
 #### Quick resolve
 
 Events in Open Tale resolve very quickly, which makes it a lot easier for the

@@ -26,7 +26,7 @@ order:
 Unless explicitly told otherwise by a skill, it's forbidden to do the same
 action twice in a single turn.
 
-¹Assisting an ally can only be accomplished by standing within 1m from the
+¹Assisting an ally can only be accomplished by standing within 1 du from the
 target. On the target's next roll, apply the Advantage modifier.
 
 ²Switching wearable gears during combat cannot be done in a single turn and

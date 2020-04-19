@@ -79,10 +79,10 @@ certain equipment, like daggers, swords or bows.
 #### Damage regarding the range
 
 * For close-range attacks (swords, clubs, axes, daggers), the distance must not
-be greater than 1m;
+be greater than 1 du;
 
 * For long-range attacks (bows, slingshots, shurikens), the maximum distance
-allowed between the character and the target is 5 + Dexterity, in meters.
+allowed between the character and the target is 5 + Dexterity, in du.
 
 #### Damage regarding the number of targets
 
@@ -94,7 +94,7 @@ from the AP for each targeted enemy that exceeds 2. For instance, when attacking
 5 enemies at the same time, apply the Disadvantage modifier **and** decrease the
 AP by 3 (5 - 2);
 
-* Close-range attacks can hit as many targets within the 1m range as intended;
+* Close-range attacks can hit as many targets within the 1 du range as intended;
 
 * Long-range attacks can only hit more than one character if they are perfectly
 aligned;
