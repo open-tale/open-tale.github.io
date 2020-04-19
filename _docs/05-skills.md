@@ -60,7 +60,8 @@ Bash mark of level SP.
 * If the SP is higher than the target's Resolve, the target gets marked with a
 Demoralized mark of level SP.
 
-* A character marked with Demoralized is unable to have critical rolls.
+* A character marked with a Demoralized mark of level *X* has all of its rolls
+scores decreased by *X* - Resolve points.
 
 * The Demoralized mark wears off in the end of the target's next turn.
 
@@ -115,17 +116,14 @@ beginning of its next turn.
 
 * A character with a Careless mark loses two points of Defense.
 
-#### Distract
+#### Focus
 
-* The maximum range is equal to 1m.
+* The caster receives a Focus mark of level SP, which lasts until the end of its
+next turn.
 
-* If the SP is higher than the target's Resolve, the target gets marked with a
-Distracted mark of level SP.
+* A character with a Focus mark rolls for Dexterity with Advantage.
 
-* A character with a Distracted mark of level *X* has *X*/4 (rounded up) less
-point of Resolve.
-
-* The Distracted mark wears off in the beginning of the target's next turn.
+* A character with a Focus mark is unable to cast Focus.
 
 #### Expose Weakness
 
@@ -138,6 +136,20 @@ an Exposed mark of level SP.
 points of Defense.
 
 * The Exposed mark wears off in the beginning of the target's next turn.
+
+#### Distractive Shadow
+
+* The maximum range is equal to 1m.
+
+* If the SP is higher than the target's Resolve, the target gets marked with a
+Distracted mark of level SP. Otherwise, the caster receives an Exposed mark of
+level SP.
+
+* A character with a Distracted mark, when attacking or using a skill against
+the caster of Distractive Shadow, will attempt to hit its shadow instead,
+completely missing the offensive attempt.
+
+* The Distracted mark wears off in the end of the target's next turn.
 
 #### Crippling Poison
 
@@ -204,6 +216,15 @@ represents the damage done.
 
 * The range is equal to one third of the SP, in meters. Every character within
 this range gets hit, so **beware of friendly fire**.
+
+#### Magnify
+
+* The caster receives a Magnify mark of level SP, which lasts until the end of
+its next turn.
+
+* A character with a Magnify mark rolls for Magicy with Advantage.
+
+* A character with a Magnify mark is unable to cast Magnify.
 
 #### Occult Force
 
@@ -288,12 +309,12 @@ when attacking that same target, apply the Advantage roll modifier.
 
 #### Made of Stone
 
-Upon completelly defending an attack or a skill, the character's Defense is
+Upon completely defending an attack or a skill, the character's Defense is
 increased by 1 until it moves or gets hit.
 
 #### Defensive Nerves
 
-Upon completelly defending an attack or a skill, the character is healed by 1
+Upon completely defending an attack or a skill, the character is healed by 1
 point. If the agressor rolled with an Advantage modifier, the healing amount
 is 2, instead.
 
@@ -320,11 +341,11 @@ long-range weapon without applying the Disadvantage roll modifier.
 When attacking with a long-range weapon, the maximum range limit is increased by
 half of the character's Dexterity (rounded up).
 
-#### Double Strafe
+#### Double Strafes
 
-When attacking with a long-range weapon, critical rolls trigger a second attack
-with the same AP as the first one and that can be used to target **another**
-enemy within the attack range.
+When attacking with a long-range weapon and the outcoming AP is a multiple of 3,
+a second attack with the same AP is triggered and the character can hit
+**another** enemy within the attack range.
 
 #### Trickery Casts
 
@@ -333,7 +354,7 @@ the Advantage modifier.
 
 #### Bouncing Energy
 
-When a critical roll happens on a Magical Bolt, another enemy can be chosen to
+When the SP of Magical Bolt is a multiple of 3, another enemy can be chosen to
 be targeted as well. The new enemy must be within the Magical Bolt range (from
 the first target).
 
@@ -357,9 +378,9 @@ apply the Advantage modifier.
 
 #### Source of Health
 
-When a critical roll happens on a Heal, another character can be chosen to be
-healed by the same amountThe new target must be within the Heal range (from the
-caster).
+When the SP of Heal is a multiple of 3, another character can be chosen to be
+healed by the same amount. The new target must be within the Heal range (from
+the caster).
 
 #### Brave Medic
 

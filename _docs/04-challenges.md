@@ -18,28 +18,22 @@ perception!". Here we have some examples of common challenges:
 | Challenge | Roll for
 |:-:|:-:
 | Pick a lock | Dexterity
-| Sneak and listen to a dialogue | Dexterity
+| Sneak in and listen to a dialogue | Dexterity
 | Break a door | Strength
 | Move a rigid lever | Strength
 | Slide below a closing gate | Motion
 | Jump over a chasm | Motion
 | Climb a tree | Motion
-| Gather clues from an old book | Intellect
-| Recall facts about the story | Intellect
 | Stay awake on watch | Volition
-| Anticipate some facts about the story | Wisdom
-| Stop a fight between two characters | Wisdom
+| Study for a long period of time | Volition
+| Gather clues from an old book | Intelligence
+| Recall facts about the story | Intelligence
+| Anticipate some facts about the story | Intelligence
 
-Open Tale offers two ways of creating such challenges: designing *Difficulty
-Classes* (DC) or using degrees of success. The former is more similar to the way
-that Dungeons and Dragons and Path Finder implement it and the later is inspired
-by Dungeon World. The GM is free to pick any of these on the fly.
-
-#### Designing Difficulty Classes
-
-Generically speaking, a DC is a number to be overcome with a roll score. So, in
-order to succeed in a challenge like this, the obtained score must be greater
-than the DC.
+Such challenges require the definition of a *Difficulty Class* (DC). Generically
+speaking, a DC is a number to be overcome with a roll score. So, in order to
+succeed in a challenge like this, the obtained score must be greater than the
+DC.
 
 The table below describes the difficulty for a few DCs:
 
@@ -52,25 +46,6 @@ The table below describes the difficulty for a few DCs:
 | 14 | Tough endeavor
 | 16 | Very hard
 | 18+ | Legendary
-
-#### Using degrees of success
-
-It's also possible to let the story unfold by rewarding or punishing the player
-with different degrees of success rather than with a solid **yes** or **no**
-outcome. In this case, the roll score itself is the reference for the degree of
-success.
-
-There are five suggested outcomes for a challenge of this kind: *failure*,
-*success with a twist*, *clean success*, *extraordinary success*. The table
-below shows the score ranges for each of them and a brief and open explanation
-of what they mean:
-
-| Score range | Outcome | Explanation
-|:-:|:-:|:-:
-| 3 - 9 | failure | the player doesn't get the reward and is punished instead
-| 10 - 12 | success with a twist | the player is rewarded but something bad happens
-| 13 - 16 | clean success | the player is rewarded and doesn't have to worry afterwards
-| 17 - 21 | extraordinary success | the player is rewarded with more than expected
 
 ## 4.2. Unexpected encounters
 
@@ -147,7 +122,12 @@ for Volition.
 * Otherwise, the character's next roll will be subject to the Disadvantage
 modifier.
 
-## 4.8. Using an active skill
+## 4.8. Healing after combat
+
+After combat, the party can go through a round of healing by rolling for
+Volition. Every character can be healed by one third of the final roll score.
+
+## 4.9. Using an active skill
 
 The potence of an active skill is represented by its *Skill Power* (SP), which
 depends on the attribute to roll for. Such attribute can be one of the

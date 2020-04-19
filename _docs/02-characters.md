@@ -43,15 +43,14 @@ Open Tale has the following attributes:
 | **Strength** | swing medium and long weapons, parry attacks, carry items
 | **Dexterity** | use short/ranged weapons, dodge/deflect attacks, pick locks or pockets
 | **Magicy** | aptitude for supportive and offensive magic
-| **Motion** | movement capability during combat, run faster, jump higher
 |~|~
+| **Motion** | movement capability during combat, run faster, jump higher
 | **Vitality** | enhance the efficiency of potions, increase health points, resist toxicity
 | **Perception** | avoid surprise attacks, spot traps, notice mental manipulation
-| **Volition** | perform laborous tasks, display bravery, resist pain, maintain sanity
 |~|~
+| **Volition** | perform laborous tasks, display bravery, resist pain, maintain sanity
 | **Persuasion** | negotiate better prices, intimidate characters, tell a convincing lie
-| **Intellect** | solve riddles, decypher codes, understand old scriptures
-| **Wisdom** | have impactful insights, display common sense
+| **Intelligence** | solve riddles, decypher codes, understand old scriptures
 
 Each attribute varies from 1 to 9. To go from an attribute level to the next,
 say *X*, the cost is *X* attribute points. For instance, the cost to go from an

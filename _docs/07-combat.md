@@ -17,14 +17,14 @@ order:
 * Spend a Heroic Badge
 * Overcome an impairment
 * Move their characters
-* Switch weapons or shield
+* Switch weapons
 * Consume an item
 * Perform an attack, use a skill or assist an ally¹
 * Schedule a wearable gear switch²
 * Defend³
 
-Unless explicitly told otherwise by a perk or a skill, it's forbidden to do the
-same action twice in a single turn.
+Unless explicitly told otherwise by a skill, it's forbidden to do the same
+action twice in a single turn.
 
 ¹Assisting an ally can only be accomplished by standing within 1m from the
 target. On the target's next roll, apply the Advantage modifier.
