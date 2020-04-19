@@ -69,18 +69,20 @@ high, try different ideas and express how it felt.
 Events in Open Tale resolve very quickly, which makes it a lot easier for the
 players and the GM to keep track of what's happening. This aspect of the system
 mitigates cases in which we forget to add this or subtract that due to something
-that happened ages ago. It's a way to free memory and focus on the plot.
+that happened ages ago. It's a way to free memory and focus on the present
+moment.
 
 Conflicts that resolve quickly also bring another element into gameplay:
-**dynamism**. No good choice is good forever... and the same applies to bad
-choices. This encourages the players to stay tunned and always reassess their
-actions.
+**dynamism**. No good or bad option is either good or bad forever. This
+encourages the players to stay tunned and always reassess their choices.
 
 #### A raceless and classless system
 
 You're free to build a character the way you want. Why does the wizard always
 have to be the wisest or the smartest one? Now you can create a super erudite
-orc who shoots bows and reads a book a day.
+orc who shoots bows and reads a book a day. Fighters and even magicians can be
+highly mobile. You're also free to come up with an entirely new race if the GM
+agrees!
 
 Character customization in Open Tale is inspired by [Ragnarok Online][ragnarok],
 with skills and attributes that increase their potential. Therefore you just

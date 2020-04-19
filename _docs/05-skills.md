@@ -33,6 +33,15 @@ of its next turn.
 * A character with a Frenzy mark loses one point of Defense, Resolve and
 Toughness.
 
+#### Enrage
+
+* The caster receives an Enraged mark of level SP, which lasts until the end of
+its next turn.
+
+* A character with an Enraged mark rolls for Strength with Advantage.
+
+* A character with an Engared mark is unable to cast Enrage.
+
 #### Bash
 
 * The maximum range is equal to 1m.
@@ -82,6 +91,14 @@ character who casted Provoke on it.
 * A character with a Provoke mark gets Advantage on all of its rolls.
 
 * The Provoke mark wears off in the end of the target's next turn.
+
+#### Harden
+
+* The caster receives a Harden mark of level SP, which lasts until the beginning
+of its next turn.
+
+* A character with a Harden mark of level *X* receives a bonus of *X*/4 (rounded
+up) points of Defense.
 
 ### 5.1.2. Dexterity-based skills
 
@@ -287,12 +304,6 @@ one third of its Strength to the character's Defense.
 
 ### 5.2.2. Long-range combat
 
-#### The Running Shooter
-
-The character can move and attack with a long-range weapon at the same time. To
-do so, roll for Motion and then roll for Dexterity. Choose the character's
-destination, the cell from which the character will shoot and the target.
-
 #### Deadly Tower
 
 If the character hasn't moved since the last attack with a long-range weapon,
@@ -301,14 +312,13 @@ extra point to the AP. This (cummulative) effect only wears off upon moving.
 
 #### Sharp Shooter
 
-The character becomes able to attack more than 1 target at the same time without
-applying Disadvantage roll modifier.
+The character becomes able to attack more than 1 target at the same time with a
+long-range weapon without applying the Disadvantage roll modifier.
 
 #### True Sight
 
 When attacking with a long-range weapon, the maximum range limit is increased by
-half of the character's Dexterity. If the character's Dexterity is odd, add 1 to
-it before dividing by 2.
+half of the character's Dexterity (rounded up).
 
 #### Double Strafe
 
@@ -348,7 +358,7 @@ apply the Advantage modifier.
 #### Source of Health
 
 When a critical roll happens on a Heal, another character can be chosen to be
-targeted by the Heal. The new target must be within the Heal range (from the
+healed by the same amountThe new target must be within the Heal range (from the
 caster).
 
 #### Brave Medic

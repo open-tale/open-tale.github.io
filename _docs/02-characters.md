@@ -49,13 +49,13 @@ Open Tale has the following attributes:
 | **Perception** | avoid surprise attacks, spot traps, notice mental manipulation
 | **Volition** | perform laborous tasks, display bravery, resist pain, maintain sanity
 |~|~
-| **Persuasion** | negotiate better prices, intimidate characters, tell a lie
+| **Persuasion** | negotiate better prices, intimidate characters, tell a convincing lie
 | **Intellect** | solve riddles, decypher codes, understand old scriptures
 | **Wisdom** | have impactful insights, display common sense
 
 Each attribute varies from 1 to 9. To go from an attribute level to the next,
-say *X*, the cost is *X* attribute points. For instance, to go from an attribute
-level 6 to 7, the cost is 7 attribute points.
+say *X*, the cost is *X* attribute points. For instance, the cost to go from an
+attribute level 6 to 7 is 7 attribute points.
 
 The character starts off with 20 attribute points and can recieve more by
 advancing on character levels. When a character advances in level, he is awarded
@@ -96,15 +96,11 @@ See below the formulas to define the base value of each quality:
 ### 2.1.4. Skills
 
 Skills are combative abilities that can be purchased at anytime outside combat
-during the campaign.
+during the campaign. A skill can be acquired by spending a skill point.
 
-Every character starts with two skills to learn and, on every **even** level, a
-new skill can be learned. For instance, on level 1 the player chooses 2 skills
-for the character, then a new skill is learned on level 2, another one on level
-4 and so on and so forth.
-
-The table below shows the maximum number of skills that a character may have by
-level:
+Every character starts with two skill points and is rewarded with an extra skill
+point on every **even** level. Below you find a table that shows the maximum
+number of skills that a character may have by level:
 
 | **Level** | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
 | **Maximum number of skills** | 2 | 3 | 3 | 4 | 4 | 5 | 5 | 6 | 6
@@ -132,13 +128,14 @@ not grant wealth.
 
 These are the steps to create a character within the Open Tale system:
 
-1. Spend any of the first 20 attribute points;
-2. Compute the character's qualities;
-3. Choose the character's skills, if intended;
-4. Set the initial wealth to 1.
+1. Define its looks, personality and name;
+2. Spend any of the initial attribute points;
+3. Compute the character's qualities;
+4. Spend any of the initial skill points;
+5. Set the initial wealth to 1.
 
-**Note**: For Magicy based characters, it's fundamental to acquire at least one
-skill in the very beginning.
+**Note**: For Magicy based characters, it's fundamental to learn at least one
+active skill in the very beginning of the journey.
 
 The table below displays the total cost of the initial attribute levels:
 

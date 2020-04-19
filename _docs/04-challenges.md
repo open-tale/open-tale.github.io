@@ -67,9 +67,9 @@ of what they mean:
 
 | Score range | Outcome | Explanation
 |:-:|:-:|:-:
-| 3 - 10 | failure | the player doesn't get the reward and is punished instead
-| 11 - 13 | success with a twist | the player is rewarded but something bad happens
-| 14 - 16 | clean success | the player is rewarded and doesn't have to worry afterwards
+| 3 - 9 | failure | the player doesn't get the reward and is punished instead
+| 10 - 12 | success with a twist | the player is rewarded but something bad happens
+| 13 - 16 | clean success | the player is rewarded and doesn't have to worry afterwards
 | 17 - 21 | extraordinary success | the player is rewarded with more than expected
 
 ## 4.2. Unexpected encounters
@@ -142,10 +142,10 @@ the final roll score.
 Overcoming an impairment means to attempt to remove a mark and requires a roll
 for Volition.
 
-* If the final roll score is below the mark level, the character's next roll
-will be subject to the Disadvantage modifier;
+* If the final roll score is above the mark level, the mark is removed;
 
-* Otherwise, the mark is removed.
+* Otherwise, the character's next roll will be subject to the Disadvantage
+modifier.
 
 ## 4.8. Using an active skill
 
