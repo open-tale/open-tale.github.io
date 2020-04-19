@@ -6,7 +6,8 @@ description: Let's talk about dice. How to use them?
 # 3. Roll system
 
 Every player roll in Open Tale is based on an attribute, for which the final
-score is the sum of 2d6 and the respective attribute level. It's that simple!
+score is the sum of 2d6 and the respective attribute level. This rule of thumb
+is only broken by Heroism and roll modifiers.
 
 ## 3.1. Heroism
 
@@ -27,3 +28,14 @@ moments. There are two **mutually exclusive** roll modifiers in Open Tale:
 
 Some circumstances tell you exactly which modifier to apply, but the GM is free
 to say which modifier should be used throughout the game.
+
+## 3.3. Comparing bonuses
+
+In terms of expected roll scores, from the lowest to the highest, the order is
+as follows:
+
+1. Disadvantage
+2. Pure (no modifier)
+3. Disadvantage + Heroism (slightly better than pure)
+4. Advantage
+5. Advantage + Heroism
