@@ -30,10 +30,10 @@ perception!". Here we have some examples of common challenges:
 | Recall facts about the story | Intelligence
 | Anticipate some facts about the story | Intelligence
 
-Such challenges require the definition of a *Difficulty Class* (DC). Generically
-speaking, a DC is a number to be overcome with a roll score. So, in order to
-succeed in a challenge like this, the obtained score must be greater than the
-DC.
+Such challenges require the definition of a *Difficulty Class* (DC) by the GM.
+Generically speaking, a DC is a number to be overcome with a roll score. So, in
+order to succeed in a challenge like this, the obtained score must be greater
+than the DC.
 
 The table below describes the difficulty for a few DCs:
 
