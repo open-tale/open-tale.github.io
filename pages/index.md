@@ -13,11 +13,6 @@ community the freedom to fork it, tweak it and publish new versions.
 
 [**Go to the Open Tale documentation pages.**](docs)
 
-## Community
-
-Open Tale is just in the beginning, but we're gathering together at our
-[Discord channel][discord]. Feel free to join us!
-
 ## Contributing
 
 This website is managed on a [Github repository][repository]. Thus, any kind of
@@ -35,7 +30,6 @@ side of the screen when using wider resolutions. We're welcome!
 [ttrpg]: https://en.wikipedia.org/wiki/Tabletop_role-playing_game
 [open-legend]: https://openlegendrpg.com/
 [apache]: http://www.apache.org/licenses/LICENSE-2.0
-[discord]: https://discordapp.com/channels/699773251915612220
 [repository]: https://github.com/open-tale/open-tale.github.io
 [issue]: https://github.com/open-tale/open-tale.github.io/issues
 [pull-request]: https://github.com/open-tale/open-tale.github.io/pulls
